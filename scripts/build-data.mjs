@@ -65,6 +65,8 @@ const RAW = {
     [J, 'Micro Modal Cotton Stretch Pyjama - Mid Grey', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/IM03_MDGY1_0103_S223_JKY_1.webp?v=1700021720', 'Tencel Micro Modal Cotton Elastane Stretch, side pockets'],
     [J, 'Micro Modal Cotton Stretch Pyjama - Light Blue', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/IM03_LTBU1_0103_S223_JKY_1.webp?v=1700020166', 'Tencel Micro Modal Cotton Elastane Stretch, side pockets'],
     [J, 'Super Combed Cotton Pyjama - Black Chambray', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/RM09_BLCHY_0103_S225_JKY_1.webp?v=1770831866', '100% Super Combed Cotton, relaxed fit, side pockets'],
+    [U, 'Pure Cotton Lounge Pyjama Joggers', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_16f6b760-6334-4b11-93a1-290e116874f0.jpg', 'Mid-rise, soft elasticised waistband, pure cotton lounge fit'],
+    [U, 'Solid Comfort Fit Lounge Joggers', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_504cbabf-5c30-4de2-9de0-13e99afb1053.jpg', 'Mid-rise, drawcord waist, comfort lounge fit'],
   ],
   'men-joggers': [
     [J, 'Cotton Rich Pique Slim Fit Jogger with Zipper Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/AM05_BLACK_0103_S223_JKY_1.webp?v=1701684644', 'Super Combed Cotton Rich Pique, slim fit, zipper pockets'],
@@ -93,6 +95,8 @@ const RAW = {
     [J, 'Modal Cotton Crew Length Socks - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/7390_BLACK_0110_S223_JKY_0_3bd2fb68-2d45-45ed-b5e8-4f7a5d0b9fed.webp?v=1700038300', 'Modal Cotton Elastane Stretch with StayFresh treatment'],
     [J, 'Modal Cotton Ankle Length Socks - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/7396_BLACK_0110_S223_JKY_0_49f00d61-adf4-4b61-9738-008ecbe89f6b.webp?v=1700037916', 'Compact Cotton Stretch with StayFresh treatment'],
     [J, 'Bamboo Fiber Ankle Length Socks - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/7398_BLACK_0110_S225_Jky_0.webp?v=1761541178', 'Environment-friendly bamboo fiber, 4-way stretch'],
+    [J, 'Cotton Handkerchiefs - Assorted (Pack of 3)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/HK03_ASSTD_0310_S123_JKY_3.webp', '100% Super Combed Cotton with StayFresh treatment'],
+    [J, 'Cotton Handkerchiefs - White (Pack of 3)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/HK01_WHITE_0310_S123_JKY_1.webp', '100% Super Combed Cotton with StayFresh treatment'],
   ],
 
   'women-undergarments': [
@@ -170,6 +174,7 @@ const RAW = {
     [J, 'Cotton Stretch Ankle Length Socks - Skin (Pack of 2)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/7046_SKIN_0201_S224_JKY_0.webp?v=1722346763', 'Compact cotton stretch, StayFresh treatment, pack of 2'],
     [J, 'Cotton Stretch Toe Socks - Skin (Pack of 2)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/7487_SKIN_0205_S123_JKY_0.webp?v=1700042799', 'Compact cotton stretch, StayFresh treatment, pack of 2'],
     [J, 'Cotton Blend Low Show Socks - Charcoal & Grey (Pack of 2)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/7506_CM-MM_0210_S123_JKY_0.webp?v=1700039115', 'Cotton Nylon blend elastane stretch, StayFresh, pack of 2'],
+    [J, 'Cotton Striped-Border Handkerchiefs (Pack of 3)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/HK02_ASSTD_0310_S123_JKY_3.webp', '100% Super Combed Cotton with StayFresh treatment'],
   ],
 
   'kids-socks': [

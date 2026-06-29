@@ -270,6 +270,24 @@
     "image": "/images/men-night-pajamas-jockey-4.jpg"
   },
   {
+    "id": "men-night-pajamas-uspa-5",
+    "department": "Men",
+    "category": "men-night-pajamas",
+    "brand": "U.S. Polo Assn.",
+    "name": "Pure Cotton Lounge Pyjama Joggers",
+    "description": "Mid-rise, soft elasticised waistband, pure cotton lounge fit",
+    "image": "/images/men-night-pajamas-uspa-5.jpg"
+  },
+  {
+    "id": "men-night-pajamas-uspa-6",
+    "department": "Men",
+    "category": "men-night-pajamas",
+    "brand": "U.S. Polo Assn.",
+    "name": "Solid Comfort Fit Lounge Joggers",
+    "description": "Mid-rise, drawcord waist, comfort lounge fit",
+    "image": "/images/men-night-pajamas-uspa-6.jpg"
+  },
+  {
     "id": "men-joggers-jockey-1",
     "department": "Men",
     "category": "men-joggers",
@@ -448,6 +466,24 @@
     "name": "Bamboo Fiber Ankle Length Socks - Black",
     "description": "Environment-friendly bamboo fiber, 4-way stretch",
     "image": "/images/men-accessories-jockey-4.jpg"
+  },
+  {
+    "id": "men-accessories-jockey-5",
+    "department": "Men",
+    "category": "men-accessories",
+    "brand": "Jockey",
+    "name": "Cotton Handkerchiefs - Assorted (Pack of 3)",
+    "description": "100% Super Combed Cotton with StayFresh treatment",
+    "image": "/images/men-accessories-jockey-5.jpg"
+  },
+  {
+    "id": "men-accessories-jockey-6",
+    "department": "Men",
+    "category": "men-accessories",
+    "brand": "Jockey",
+    "name": "Cotton Handkerchiefs - White (Pack of 3)",
+    "description": "100% Super Combed Cotton with StayFresh treatment",
+    "image": "/images/men-accessories-jockey-6.jpg"
   },
   {
     "id": "women-undergarments-jockey-1",
@@ -916,6 +952,15 @@
     "name": "Cotton Blend Low Show Socks - Charcoal & Grey (Pack of 2)",
     "description": "Cotton Nylon blend elastane stretch, StayFresh, pack of 2",
     "image": "/images/women-accessories-jockey-4.jpg"
+  },
+  {
+    "id": "women-accessories-jockey-5",
+    "department": "Women",
+    "category": "women-accessories",
+    "brand": "Jockey",
+    "name": "Cotton Striped-Border Handkerchiefs (Pack of 3)",
+    "description": "100% Super Combed Cotton with StayFresh treatment",
+    "image": "/images/women-accessories-jockey-5.jpg"
   },
   {
     "id": "kids-socks-jockey-1",
