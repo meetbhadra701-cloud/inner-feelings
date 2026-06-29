@@ -92,10 +92,10 @@ const RAW = {
     [J, 'Wirefree Cotton Full Coverage Everyday Bra - Mocha', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/FE41_MOCHA_0105_S123_JKY_1_83fc2bd9-f46f-4f36-95bd-89ae63550b05.webp?v=1700022627', 'Super Combed Cotton Elastane Stretch, full coverage'],
   ],
   'women-lingerie': [
-    [E, 'Enamor Full Support Non-Padded Wirefree Bra - F097', '', 'M-Frame contour superlift with jiggle control, full support'],
-    [E, 'Enamor CloudSoft Invisi Neckline Everyday T-Shirt Bra - A032', '', 'Cotton everyday padded wirefree bra, medium coverage'],
-    [E, 'Enamor Fabcool Breathable Cup T-Shirt Bra - A165 (Pale Skin)', '', 'Breathable cooling cotton, padded wirefree, high coverage'],
-    [E, 'Enamor Fabcool Breathable Cup T-Shirt Bra - A165 (Black)', '', 'Breathable cooling cotton, padded wirefree, high coverage'],
+    [E, 'Enamor Full Support Non-Padded Wirefree Bra - F097', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_e093fea4-f890-4463-b1d8-0da9d65b7dd4.jpg', 'M-Frame contour superlift with jiggle control, full support'],
+    [E, 'Enamor CloudSoft Invisi Neckline Everyday T-Shirt Bra - A032', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_6abeb340-96aa-4ca1-8a4c-d4add7fb103a.jpg', 'Cotton everyday padded wirefree bra, medium coverage'],
+    [E, 'Enamor Fabcool Breathable Cup T-Shirt Bra - A165 (Pale Skin)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_59fbeb2a-53e0-4b96-882d-2793c9d96359.jpg', 'Breathable cooling cotton, padded wirefree, high coverage'],
+    [E, 'Enamor Fabcool Breathable Cup T-Shirt Bra - A165 (Black)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_d83247f8-089c-4aa2-a82a-8a520eac60c0.jpg', 'Breathable cooling cotton, padded wirefree, high coverage'],
   ],
   'women-tshirts-full': [
     [J, 'Micro Modal Round Neck Full Sleeve T-Shirt - Pageant Blue', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/RX21_PGTBU_0103_S224_JKY_1.webp?v=1721199690', 'Micro Modal Cotton, relaxed fit, curved hem'],
