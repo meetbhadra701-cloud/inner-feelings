@@ -36,6 +36,24 @@
     "image": "/images/men-undergarments-jockey-4.jpg"
   },
   {
+    "id": "men-undergarments-uspa-5",
+    "department": "Men",
+    "category": "men-undergarments",
+    "brand": "U.S. Polo Assn.",
+    "name": "Striped Waistband Cotton Briefs (Pack of 1)",
+    "description": "Mid-rise, super-soft elasticised waistband, pure cotton",
+    "image": "/images/men-undergarments-uspa-5.jpg"
+  },
+  {
+    "id": "men-undergarments-uspa-6",
+    "department": "Men",
+    "category": "men-undergarments",
+    "brand": "U.S. Polo Assn.",
+    "name": "Elastic Waistband Ribbed Cotton Trunks (Pack of 2)",
+    "description": "Mid-rise, soft stretch elasticised waistband, ribbed cotton",
+    "image": "/images/men-undergarments-uspa-6.jpg"
+  },
+  {
     "id": "men-tshirts-full-jockey-1",
     "department": "Men",
     "category": "men-tshirts-full",

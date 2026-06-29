@@ -29,6 +29,8 @@ const RAW = {
     [J, 'Microfiber Mesh Performance Trunk - Ocean Depth', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/MM08_ODEPR_0105_S125_Jky_1_webp.webp?v=1771315741', 'Microfiber Mesh Elastane Stretch with StayDry Technology'],
     [J, 'Tactel Microfiber Stretch Printed Brief - True Navy', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/IC29_TNVPR_0105_S123_JKY_1.webp?v=1700033409', 'Tactel Microfiber Elastane Stretch Printed with Moisture Move'],
     [J, 'Microfiber Mesh Performance Boxer Brief - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/MM06_BLACK_0105_S123_JKY_1.webp?v=1725619829', 'Microfiber Mesh Elastane Stretch with StayDry Technology'],
+    [U, 'Striped Waistband Cotton Briefs (Pack of 1)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_74aff4b0-fbe9-44d9-a8ea-3872633400f5.jpg', 'Mid-rise, super-soft elasticised waistband, pure cotton'],
+    [U, 'Elastic Waistband Ribbed Cotton Trunks (Pack of 2)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_4474298f-2a67-49ed-8124-0dd3103ff409.jpg', 'Mid-rise, soft stretch elasticised waistband, ribbed cotton'],
   ],
   'men-tshirts-full': [
     [J, 'Super Combed Cotton Round Neck Full Sleeve T-Shirt - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/AM95_BLACK_0103_S223_JKY_1.webp?v=1725619824', 'Super Combed Cotton Rich, Round Neck, Full Sleeve'],
