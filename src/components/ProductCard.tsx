@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import { MessageCircle } from 'lucide-react'
 import type { Product } from '../types'
 import { brandPlaceholder } from '../lib/products'
+import { asset } from '../lib/asset'
 import { buildWhatsAppUrl } from '../lib/whatsapp'
 import { useI18n } from '../i18n/I18nContext'
 
@@ -14,7 +15,7 @@ interface Props {
 export function ProductCard({ product, onOpen }: Props) {
   const { t } = useI18n()
   const fallback = brandPlaceholder(product.brand)
-  const [src, setSrc] = useState(product.image || fallback)
+  const [src, setSrc] = useState(product.image ? asset(product.image) : fallback)
 
   return (
     <motion.li

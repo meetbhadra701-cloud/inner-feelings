@@ -4,6 +4,7 @@ import { AnimatePresence, motion, useReducedMotion } from 'framer-motion'
 import { X, MessageCircle, Phone } from 'lucide-react'
 import type { Product } from '../types'
 import { brandPlaceholder } from '../lib/products'
+import { asset } from '../lib/asset'
 import { buildWhatsAppUrl } from '../lib/whatsapp'
 import { telHref } from '../lib/contact'
 import { useI18n } from '../i18n/I18nContext'
@@ -32,7 +33,7 @@ export function ProductModal({ product, onClose }: Props) {
   const fallback = shown ? brandPlaceholder(shown.brand) : ''
   const [src, setSrc] = useState('')
   useEffect(() => {
-    if (shown) setSrc(shown.image || brandPlaceholder(shown.brand))
+    if (shown) setSrc(shown.image ? asset(shown.image) : brandPlaceholder(shown.brand))
   }, [shown])
 
   return (

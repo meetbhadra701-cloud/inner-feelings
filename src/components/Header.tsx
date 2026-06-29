@@ -1,6 +1,7 @@
 import { useRef } from 'react'
 import { MapPin } from 'lucide-react'
 import { LOGO_SRC } from '../lib/config'
+import { asset } from '../lib/asset'
 import { useI18n } from '../i18n/I18nContext'
 import { useMeasuredHeight } from '../hooks/useMeasuredHeight'
 import { LanguageSwitcher } from './LanguageSwitcher'
@@ -21,7 +22,7 @@ export function Header() {
           aria-label={t('header.home')}
           className="flex shrink-0 items-center gap-2"
         >
-          <img src={LOGO_SRC} alt={t('brand.name')} className="h-10 w-10 rounded object-contain" />
+          <img src={asset(LOGO_SRC)} alt={t('brand.name')} className="h-10 w-10 rounded object-contain" />
           <span className="text-lg font-bold tracking-tight">Inner Feelings</span>
         </a>
 
