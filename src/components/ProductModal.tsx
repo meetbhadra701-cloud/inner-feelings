@@ -50,13 +50,16 @@ export function ProductModal({ product, onClose }: Props) {
               />
             </Dialog.Overlay>
             <Dialog.Content asChild forceMount aria-describedby="product-desc">
-              <motion.div
-                initial={reduce ? { opacity: 0 } : { opacity: 0, y: 20, scale: 0.98 }}
-                animate={reduce ? { opacity: 1 } : { opacity: 1, y: 0, scale: 1 }}
-                exit={reduce ? { opacity: 0 } : { opacity: 0, y: 10, scale: 0.98 }}
-                transition={{ duration: 0.18, ease: 'easeOut' }}
-                className="fixed left-1/2 top-1/2 z-50 max-h-[90vh] w-[92vw] max-w-lg -translate-x-1/2 -translate-y-1/2 overflow-y-auto rounded-2xl bg-white p-5 shadow-xl sm:p-6"
-              >
+              {/* Static wrapper holds the centering transform; the inner motion
+                  element owns the animated transform so the two never clash. */}
+              <div className="fixed left-1/2 top-1/2 z-50 w-[92vw] max-w-lg -translate-x-1/2 -translate-y-1/2">
+                <motion.div
+                  initial={reduce ? { opacity: 0 } : { opacity: 0, y: 20, scale: 0.98 }}
+                  animate={reduce ? { opacity: 1 } : { opacity: 1, y: 0, scale: 1 }}
+                  exit={reduce ? { opacity: 0 } : { opacity: 0, y: 10, scale: 0.98 }}
+                  transition={{ duration: 0.18, ease: 'easeOut' }}
+                  className="max-h-[90vh] overflow-y-auto rounded-2xl bg-white p-5 shadow-xl sm:p-6"
+                >
                 <div className="flex items-start justify-between gap-4">
                   <span className="rounded-full bg-ink/90 px-2.5 py-1 text-xs font-semibold text-white">
                     {shown.brand}
@@ -106,7 +109,8 @@ export function ProductModal({ product, onClose }: Props) {
                     {t('modal.call')}
                   </a>
                 </div>
-              </motion.div>
+                </motion.div>
+              </div>
             </Dialog.Content>
           </Dialog.Portal>
         )}
