@@ -162,6 +162,24 @@
     "image": "/images/men-boxers-jockey-4.jpg"
   },
   {
+    "id": "men-boxers-uspa-5",
+    "department": "Men",
+    "category": "men-boxers",
+    "brand": "U.S. Polo Assn.",
+    "name": "Brand Stripe Dual Pocket Boxers (Pack of 1)",
+    "description": "Mid-rise, soft inner waistband, dual pockets",
+    "image": "/images/men-boxers-uspa-5.jpg"
+  },
+  {
+    "id": "men-boxers-uspa-6",
+    "department": "Men",
+    "category": "men-boxers",
+    "brand": "U.S. Polo Assn.",
+    "name": "Mid Rise Pure Cotton Boxers",
+    "description": "Mid-rise, contrast elasticised waistband, pure cotton",
+    "image": "/images/men-boxers-uspa-6.jpg"
+  },
+  {
     "id": "men-shorts-jockey-1",
     "department": "Men",
     "category": "men-shorts",
@@ -196,6 +214,24 @@
     "name": "Cotton Rich Straight Fit Shorts with Zipper Pockets - Black",
     "description": "Super Combed Cotton Rich, straight fit, zipper pockets",
     "image": "/images/men-shorts-jockey-4.jpg"
+  },
+  {
+    "id": "men-shorts-uspa-5",
+    "department": "Men",
+    "category": "men-shorts",
+    "brand": "U.S. Polo Assn.",
+    "name": "Mid Rise Slim Fit Shorts",
+    "description": "Mid-rise, slim fit, four pockets, woven",
+    "image": "/images/men-shorts-uspa-5.jpg"
+  },
+  {
+    "id": "men-shorts-uspa-6",
+    "department": "Men",
+    "category": "men-shorts",
+    "brand": "U.S. Polo Assn.",
+    "name": "Regular Fit Knitted Shorts",
+    "description": "Mid-rise, drawstring, three pockets, knitted",
+    "image": "/images/men-shorts-uspa-6.jpg"
   },
   {
     "id": "men-night-pajamas-jockey-1",
@@ -270,6 +306,24 @@
     "image": "/images/men-joggers-jockey-4.jpg"
   },
   {
+    "id": "men-joggers-uspa-5",
+    "department": "Men",
+    "category": "men-joggers",
+    "brand": "U.S. Polo Assn.",
+    "name": "Regular Fit Active Track Pants",
+    "description": "Mid-rise, drawstring waist, three-pocket active fit",
+    "image": "/images/men-joggers-uspa-5.jpg"
+  },
+  {
+    "id": "men-joggers-uspa-6",
+    "department": "Men",
+    "category": "men-joggers",
+    "brand": "U.S. Polo Assn.",
+    "name": "Solid Active Cargo Track Pants",
+    "description": "Mid-rise, six-pocket cargo styling, active fit",
+    "image": "/images/men-joggers-uspa-6.jpg"
+  },
+  {
     "id": "men-gym-wear-jockey-1",
     "department": "Men",
     "category": "men-gym-wear",
@@ -304,6 +358,24 @@
     "name": "Cotton Rib Square Neck Gym Vest with Graphic Print - White",
     "description": "100% Super Combed Cotton Rib, graphic print",
     "image": "/images/men-gym-wear-jockey-4.jpg"
+  },
+  {
+    "id": "men-gym-wear-uspa-5",
+    "department": "Men",
+    "category": "men-gym-wear",
+    "brand": "U.S. Polo Assn.",
+    "name": "Round Neck Cotton Jersey Vest (Pack of 1)",
+    "description": "Round neck, sleeveless cotton jersey",
+    "image": "/images/men-gym-wear-uspa-5.jpg"
+  },
+  {
+    "id": "men-gym-wear-uspa-6",
+    "department": "Men",
+    "category": "men-gym-wear",
+    "brand": "U.S. Polo Assn.",
+    "name": "Scoop Neck Sleeveless Cotton Vests (Pack of 2)",
+    "description": "Scoop neck, sleeveless, low-cut armhole, pack of 2",
+    "image": "/images/men-gym-wear-uspa-6.jpg"
   },
   {
     "id": "men-thermals-jockey-1",
@@ -412,6 +484,24 @@
     "name": "Wirefree Cotton Full Coverage Everyday Bra - Mocha",
     "description": "Super Combed Cotton Elastane Stretch, full coverage",
     "image": "/images/women-undergarments-jockey-4.jpg"
+  },
+  {
+    "id": "women-undergarments-enamor-5",
+    "department": "Women",
+    "category": "women-undergarments",
+    "brand": "Enamor",
+    "name": "Enamor Side Support Shaper Everyday Bra - A042 (Skin)",
+    "description": "Non-padded, wirefree, smooth shaper, high coverage",
+    "image": "/images/women-undergarments-enamor-5.jpg"
+  },
+  {
+    "id": "women-undergarments-enamor-6",
+    "department": "Women",
+    "category": "women-undergarments",
+    "brand": "Enamor",
+    "name": "Enamor Super Lift Cotton Minimizer Bra - A112 (Pale Skin)",
+    "description": "Non-padded, wirefree, full coverage, hidden X-frame",
+    "image": "/images/women-undergarments-enamor-6.jpg"
   },
   {
     "id": "women-lingerie-enamor-1",
@@ -549,6 +639,24 @@
     "image": "/images/women-shorts-jockey-4.jpg"
   },
   {
+    "id": "women-shorts-enamor-5",
+    "department": "Women",
+    "category": "women-shorts",
+    "brand": "Enamor",
+    "name": "Enamor Knee Length City Shorts - E044 (Navy)",
+    "description": "Mid-rise, slim fit, soft breathable cotton",
+    "image": "/images/women-shorts-enamor-5.jpg"
+  },
+  {
+    "id": "women-shorts-enamor-6",
+    "department": "Women",
+    "category": "women-shorts",
+    "brand": "Enamor",
+    "name": "Enamor Hangout Shorts - E7A1 (Vintage Bloom)",
+    "description": "Mid-rise, relaxed fit, soft light cotton",
+    "image": "/images/women-shorts-enamor-6.jpg"
+  },
+  {
     "id": "women-night-pajamas-jockey-1",
     "department": "Women",
     "category": "women-night-pajamas",
@@ -682,6 +790,24 @@
     "name": "Cotton Printed Racerback Tank Top - Black",
     "description": "100% Super Combed Cotton, relaxed fit, racerback",
     "image": "/images/women-gym-wear-jockey-4.jpg"
+  },
+  {
+    "id": "women-gym-wear-enamor-5",
+    "department": "Women",
+    "category": "women-gym-wear",
+    "brand": "Enamor",
+    "name": "Enamor Medium Impact Racerback Sports Bra - SB08 (Pearl)",
+    "description": "Padded removable cups, wirefree, high coverage",
+    "image": "/images/women-gym-wear-enamor-5.jpg"
+  },
+  {
+    "id": "women-gym-wear-enamor-6",
+    "department": "Women",
+    "category": "women-gym-wear",
+    "brand": "Enamor",
+    "name": "Enamor High-Impact Bounce Control Sports Bra - SB25 (Pearl)",
+    "description": "Padded, wirefree, full coverage, Y-panel hold",
+    "image": "/images/women-gym-wear-enamor-6.jpg"
   },
   {
     "id": "women-coord-sets-enamor-1",

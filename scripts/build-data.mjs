@@ -49,12 +49,16 @@ const RAW = {
     [J, 'Mercerized Cotton Printed Boxer Shorts - Nickel', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/US57_NICKL_0105_S123_JKY_1.webp?v=1725619862', '100% Super Combed Mercerized Cotton Woven, side pockets'],
     [J, 'Cotton Printed Boxer Shorts - Navy & Burnt Olive (Pack of 2)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/US57_NV-BO_0205_S124_JKY_0.webp?v=1738835851', '100% Super Combed Mercerized Cotton Woven, pack of 2'],
     [J, 'Tencel Lyocell Checkered Boxer Shorts - Poseidon', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/HG18_POSED_0103_S125_Jky_1.webp?v=1744182408', 'Tencel Lyocell Cotton, checkered, side pockets'],
+    [U, 'Brand Stripe Dual Pocket Boxers (Pack of 1)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_d8ed8796-f4b4-4509-91f9-de07ea6b7d97.jpg', 'Mid-rise, soft inner waistband, dual pockets'],
+    [U, 'Mid Rise Pure Cotton Boxers', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_de9be774-18f2-418a-86f7-b2b24ca3391a.jpg', 'Mid-rise, contrast elasticised waistband, pure cotton'],
   ],
   'men-shorts': [
     [J, 'Cotton Rich Regular Fit Shorts with Side Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/9426_BLACK_0103_S1.25_JKY_1.webp?v=1777025542', 'Super Combed Cotton Rich, regular fit, side pockets'],
     [J, 'Micro Modal Checkered Sleep Shorts - Mid Blue', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/IM02_MDBU1_0103_S223_JKY_1.webp?v=1700021649', 'Tencel Micro Modal Cotton Elastane Stretch, side pockets'],
     [J, 'Lightweight Microfiber Shorts with Zipper Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/MV23_BLACK_0103_S123_JKY_1.webp?v=1700006725', 'Lightweight breathable microfiber, zipper pockets'],
     [J, 'Cotton Rich Straight Fit Shorts with Zipper Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/AM14_BLACK_0103_S123_JKY_1.webp?v=1700007218', 'Super Combed Cotton Rich, straight fit, zipper pockets'],
+    [U, 'Mid Rise Slim Fit Shorts', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_1bc2c187-ca88-4d1c-b191-a1a77fe8fe77.jpg', 'Mid-rise, slim fit, four pockets, woven'],
+    [U, 'Regular Fit Knitted Shorts', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_bddbb141-295a-46bc-ab04-daaadc34aa8c.jpg', 'Mid-rise, drawstring, three pockets, knitted'],
   ],
   'men-night-pajamas': [
     [J, 'Micro Modal Cotton Stretch Pyjama - Mid Blue', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/IM03_MDBU1_0103_S223_JKY_1.webp?v=1700021637', 'Tencel Micro Modal Cotton Elastane Stretch, side pockets'],
@@ -67,12 +71,16 @@ const RAW = {
     [J, 'Cotton Rich Slim Fit Jogger with Zipper Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/AM02_BLACK_0103_S223_JKY_1.webp?v=1701684844', 'Super Combed Cotton Rich, slim fit, zipper pockets'],
     [J, 'Cotton Rich Jogger with StayFresh Treatment - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/SP31_BLACK_0103_S223_JKY_1.webp?v=1725619859', 'Super Combed Cotton Rich with StayFresh treatment'],
     [J, 'Cotton Rich Slim Fit Jogger with Side Pockets - Cream Melange', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/US90_CRMML_0103_S223_JKY_1.webp?v=1700013742', 'Super Combed Cotton Rich, slim fit, side pockets'],
+    [U, 'Regular Fit Active Track Pants', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_339dd497-cce6-4ca9-807c-7dcc21104a79.jpg', 'Mid-rise, drawstring waist, three-pocket active fit'],
+    [U, 'Solid Active Cargo Track Pants', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_427bf6be-3458-4498-a189-c5d2485a0461.jpg', 'Mid-rise, six-pocket cargo styling, active fit'],
   ],
   'men-gym-wear': [
     [J, 'Cotton Rib Round Neck Muscle Vest - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/9930_BLACK_0105_S223_JKY_1.webp?v=1700004164', '100% Super Combed Cotton Rib, sleeveless round neck'],
     [J, 'Cotton Rib Round Neck Muscle Vest - Black & Charcoal (Pack of 2)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/9930_BLACK-CHAML.webp?v=1727929662', '100% Super Combed Cotton Rib, pack of 2'],
     [J, 'Cotton Rib Square Neck Gym Vest - Charcoal Melange', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/US26_CHAML_0105_S123_JKY_1.webp?v=1700011754', '100% Super Combed Cotton Rib, square neck, sleeveless'],
     [J, 'Cotton Rib Square Neck Gym Vest with Graphic Print - White', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/US54_WHITE_0105_S125_JKY_1_webp.webp?v=1771322975', '100% Super Combed Cotton Rib, graphic print'],
+    [U, 'Round Neck Cotton Jersey Vest (Pack of 1)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_f23e4b71-26c2-4653-97b0-a225ffed23ff.jpg', 'Round neck, sleeveless cotton jersey'],
+    [U, 'Scoop Neck Sleeveless Cotton Vests (Pack of 2)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_013221a8-b2e7-46c4-a6d7-6fdbe1099f86.jpg', 'Scoop neck, sleeveless, low-cut armhole, pack of 2'],
   ],
   'men-thermals': [
     [J, 'Soft Touch Fleece Thermal Long John - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/2623_BLACK_0103_S123_JKY_1.webp?v=1725619830', 'Ultra Warmth Soft Touch Microfiber Fleece, StayWarm'],
@@ -92,6 +100,8 @@ const RAW = {
     [J, 'Wirefree Cotton Full Coverage Everyday Bra - Mocha', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/1250_MOCHA_0105_S123_JKY_1_725824da-00c5-4b0c-9369-dc636950e7a5.webp?v=1700022545', 'Super Combed Cotton Elastane Stretch, full coverage'],
     [J, 'Wirefree Padded T-Shirt Bra - Light Skin', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/1723_WSKIN_0105_S123_JKY_1.webp?v=1768375145', 'Super Combed Cotton Elastane Stretch, medium coverage'],
     [J, 'Wirefree Cotton Full Coverage Everyday Bra - Mocha', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/FE41_MOCHA_0105_S123_JKY_1_83fc2bd9-f46f-4f36-95bd-89ae63550b05.webp?v=1700022627', 'Super Combed Cotton Elastane Stretch, full coverage'],
+    [E, 'Enamor Side Support Shaper Everyday Bra - A042 (Skin)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_0dffb7ea-c025-4a60-abf7-90e2d812a496.jpg', 'Non-padded, wirefree, smooth shaper, high coverage'],
+    [E, 'Enamor Super Lift Cotton Minimizer Bra - A112 (Pale Skin)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_d6a847db-8297-4ba6-8247-eae9cab046d8.jpg', 'Non-padded, wirefree, full coverage, hidden X-frame'],
   ],
   'women-lingerie': [
     [E, 'Enamor Full Support Non-Padded Wirefree Bra - F097', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_e093fea4-f890-4463-b1d8-0da9d65b7dd4.jpg', 'M-Frame contour superlift with jiggle control, full support'],
@@ -115,6 +125,8 @@ const RAW = {
     [J, 'Micro Modal Relaxed Fit Printed Shorts - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/RX10_BLACK_0103_S123_JKY_1_4380afdf-0d46-48d7-a3f6-fe55bde5b44b.webp?v=1700004680', 'Micro Modal Cotton, relaxed fit, printed'],
     [J, 'Yarn Dyed Woven Striped Shorts - Iris Blue', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/RX15_IRSBU_0103_S123_JKY_1_3f7f527e-223f-4eee-8dc1-75218d0e1a07.webp?v=1700019614', 'Super Combed Cotton, relaxed fit, side pockets'],
     [J, 'Cotton Relaxed Fit Sleep Shorts - Confetti', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/RX72_CNFTI_0103_S123_JKY_1_ea13ce65-523d-42ed-b8ca-7d55e751e8e7.webp?v=1700013096', 'Super Combed Cotton, relaxed fit, side pockets'],
+    [E, 'Enamor Knee Length City Shorts - E044 (Navy)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_45185eae-90e7-481c-b69a-72758524c63b.jpg', 'Mid-rise, slim fit, soft breathable cotton'],
+    [E, 'Enamor Hangout Shorts - E7A1 (Vintage Bloom)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/2_5b80d228-c981-4e3e-b004-2876ac3429ff.jpg', 'Mid-rise, relaxed fit, soft light cotton'],
   ],
   'women-night-pajamas': [
     [J, 'Cotton Woven Striped Pyjama with Side Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/RX06_BLACK_0103_S223_JKY_1.webp?v=1700004873', '100% Super Combed Cotton Woven, relaxed fit'],
@@ -138,6 +150,8 @@ const RAW = {
     [J, 'Cotton Rib Slim Fit Tank Top - White', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/A113_WHITE_0105_S123_JKY_1.webp?v=1729227098', '100% Super Combed Cotton Rib, slim fit'],
     [J, 'Cotton Rich Curved Hem Tank Top - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/AW77_BLACK_0105_S123_JKY_1.webp?v=1729759531', 'Super Combed Cotton Rich, relaxed fit, curved hem'],
     [J, 'Cotton Printed Racerback Tank Top - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/A155_BLACK_0103_S125_JKY_1.webp?v=1747555894', '100% Super Combed Cotton, relaxed fit, racerback'],
+    [E, 'Enamor Medium Impact Racerback Sports Bra - SB08 (Pearl)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_613e954b-e447-4182-bb0d-ef6b0b77fc1d.jpg', 'Padded removable cups, wirefree, high coverage'],
+    [E, 'Enamor High-Impact Bounce Control Sports Bra - SB25 (Pearl)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_db65617e-1dbe-43a6-952e-2f498eb6ff19.jpg', 'Padded, wirefree, full coverage, Y-panel hold'],
   ],
   'women-coord-sets': [
     [E, 'Enamor Drawstring Travel Pants - Jet Black', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_74d43ee9-3cc0-47d9-88b2-89ed95793b64.jpg', 'Quick dry & 4-way stretch, relaxed fit, antimicrobial'],
