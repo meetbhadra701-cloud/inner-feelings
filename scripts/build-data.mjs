@@ -39,6 +39,8 @@ const RAW = {
     [J, 'Supima Cotton Round Neck Full Sleeve T-Shirt - Deep Olive', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/IM22_DPOLV_0103_S223_JKY_1.webp?v=1725619832', 'Super Combed Supima Cotton, Round Neck, Full Sleeve'],
     [J, 'Graphic Printed Round Neck Full Sleeve T-Shirt - Deep Olive', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/US82_DPO02_0103_S224_JKY_1_2.webp?v=1744191261', 'Super Combed Cotton Rich, graphic print, full sleeve'],
     [J, 'Oversized Graphic Full Sleeve T-Shirt - Deep Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/MZ13_IPDPBLK_0101_S225_JKY_1.webp?v=1764321636', 'Super Combed Cotton Rich, oversized fit, graphic print'],
+    [U, 'Outdoor Muscle Fit Long Sleeve T-Shirt', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_895e587d-6894-47e9-b3ca-a9fd56f918ff.jpg', 'Turtle neck, long sleeves, solid muscle fit'],
+    [U, 'Muscle Fit Striped Long Sleeve T-Shirt', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_739d2eec-2a98-4705-8fca-dca94cf47ca2.jpg', 'Ribbed crew neck, long sleeves, horizontal stripe'],
   ],
   'men-tshirts-half': [
     [J, 'Super Combed Cotton Round Neck Half Sleeve T-Shirt - White', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/2714_WHITE_0105_S123_JKY_1.webp?v=1700035033', 'Super Combed Cotton Rich, Round Neck, Half Sleeve'],
@@ -53,6 +55,8 @@ const RAW = {
     [J, 'Tencel Lyocell Checkered Boxer Shorts - Poseidon', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/HG18_POSED_0103_S125_Jky_1.webp?v=1744182408', 'Tencel Lyocell Cotton, checkered, side pockets'],
     [U, 'Brand Stripe Dual Pocket Boxers (Pack of 1)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_d8ed8796-f4b4-4509-91f9-de07ea6b7d97.jpg', 'Mid-rise, soft inner waistband, dual pockets'],
     [U, 'Mid Rise Pure Cotton Boxers', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_de9be774-18f2-418a-86f7-b2b24ca3391a.jpg', 'Mid-rise, contrast elasticised waistband, pure cotton'],
+    [V, 'Pure Cotton Elasticated Boxer Shorts', 'https://imagescdn.vanheusenindia.com/img/app/product/8/801966-10568345.jpg', 'Pure cotton with elasticated waistband'],
+    [V, 'Side Pocket Boxer Shorts (Pack of 2)', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40098330-31486215.jpg', 'Superior lustre cotton, side pockets, pack of 2'],
   ],
   'men-shorts': [
     [J, 'Cotton Rich Regular Fit Shorts with Side Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/9426_BLACK_0103_S1.25_JKY_1.webp?v=1777025542', 'Super Combed Cotton Rich, regular fit, side pockets'],
@@ -79,6 +83,8 @@ const RAW = {
     [J, 'Cotton Rich Slim Fit Jogger with Side Pockets - Cream Melange', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/US90_CRMML_0103_S223_JKY_1.webp?v=1700013742', 'Super Combed Cotton Rich, slim fit, side pockets'],
     [U, 'Regular Fit Active Track Pants', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_339dd497-cce6-4ca9-807c-7dcc21104a79.jpg', 'Mid-rise, drawstring waist, three-pocket active fit'],
     [U, 'Solid Active Cargo Track Pants', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_427bf6be-3458-4498-a189-c5d2485a0461.jpg', 'Mid-rise, six-pocket cargo styling, active fit'],
+    [V, 'Athleisure City Jogger Pants - Black', 'https://imagescdn.vanheusenindia.com/img/app/product/6/668523-6885727.jpg', 'Athleisure jogger pants, comfortable fit'],
+    [V, 'Smart Tech Joggers - Easy Stain Release', 'https://imagescdn.vanheusenindia.com/img/app/product/9/905305-11148584.jpg', 'Smart-tech joggers, easy stain release, anti-stat'],
   ],
   'men-gym-wear': [
     [J, 'Cotton Rib Round Neck Muscle Vest - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/9930_BLACK_0105_S223_JKY_1.webp?v=1700004164', '100% Super Combed Cotton Rib, sleeveless round neck'],
@@ -95,6 +101,9 @@ const RAW = {
     [J, 'Soft Touch Fleece Full Sleeve Thermal Undershirt - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/2606_BLACK_0103_S123_JKY_1.webp?v=1725619830', 'Ultra Warmth Soft Touch Microfiber Fleece, StayWarm'],
     [J, 'Cotton Rich Full Sleeve Thermal Set - Charcoal Melange', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/2404_CHAML_0105_S123_JKY_1.webp?v=1759985485', 'Extra Warmth Super Combed Cotton Rich, StayWarm'],
     [J, 'Soft Touch Full Sleeve Thermal Undershirt - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/2604_BLACK_0105_S123_JKY_1.webp?v=1700007626', 'Warmth Soft Touch Microfiber Elastane Stretch, StayWarm'],
+    [V, 'Anti-Bacterial Low Neck Thermal Top - Ivory', 'https://imagescdn.vanheusenindia.com/img/app/product/3/39708558-14583532.jpg', 'Anti-bacterial low-neck thermal top'],
+    [V, 'Anti-Bacterial Thermal Top - Charcoal Melange', 'https://imagescdn.vanheusenindia.com/img/app/product/3/39708575-14585452.jpg', 'Anti-bacterial low-neck thermal top'],
+    [U, 'Slim Fit Heathered Thermal T-Shirt', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_224b2cd7-45a5-4d1e-bd9a-bab535dd9e7b.jpg', 'Scoop neck, long sleeves, slim-fit thermal tee'],
   ],
   'men-accessories': [
     [J, 'Microfiber Cotton Crew Length Thermal Socks - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/7150_BLACK_0110_S126_Jky_0.webp?v=1764578239', 'Microfiber and Compact Cotton Stretch, StayWarm socks'],
@@ -105,6 +114,7 @@ const RAW = {
     [J, 'Cotton Handkerchiefs - White (Pack of 3)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/HK01_WHITE_0310_S123_JKY_1.webp', '100% Super Combed Cotton with StayFresh treatment'],
     [V, 'Solid Crew Socks (Pack of 3)', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40074545-21808557.jpg', 'Soft cotton-blend crew socks, pack of 3'],
     [V, 'Navy Warmtech Thermal Socks', 'https://imagescdn.vanheusenindia.com/img/app/product/6/668398-21786791.jpg', 'Warmtech ankle-length thermal socks'],
+    [U, 'Pure Cotton Brand Logo Handkerchiefs (Pack of 3)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_1f83bcfa-5c31-4306-99ec-247c5f157e1a.jpg', 'Pure cotton, brand-logo embroidered, pack of 3'],
   ],
 
   'women-undergarments': [
@@ -114,6 +124,7 @@ const RAW = {
     [J, 'Wirefree Cotton Full Coverage Everyday Bra - Mocha', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/FE41_MOCHA_0105_S123_JKY_1_83fc2bd9-f46f-4f36-95bd-89ae63550b05.webp?v=1700022627', 'Super Combed Cotton Elastane Stretch, full coverage'],
     [E, 'Enamor Side Support Shaper Everyday Bra - A042 (Skin)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_0dffb7ea-c025-4a60-abf7-90e2d812a496.jpg', 'Non-padded, wirefree, smooth shaper, high coverage'],
     [E, 'Enamor Super Lift Cotton Minimizer Bra - A112 (Pale Skin)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_d6a847db-8297-4ba6-8247-eae9cab046d8.jpg', 'Non-padded, wirefree, full coverage, hidden X-frame'],
+    [J, 'Bonded Tech Wirefree Padded Lounge Bra - Pomegranate', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/1839_POMGR_0105_S123_JKY_1.webp', 'Soft-touch microfiber bonded tech, 360° stretch, full coverage'],
     [V, 'Van Heusen Cotton Minimizer Bra - Non Padded Wireless', 'https://imagescdn.vanheusenindia.com/img/app/product/4/492002-31306003.jpg', 'High-stretch cotton, wireless, double-lined cups'],
     [V, 'Van Heusen Anti-Bacterial Shaper Bra - Skin', 'https://imagescdn.vanheusenindia.com/img/app/product/7/794764-16705369.jpg', 'Anti-bacterial, non-padded shaper, full coverage'],
   ],
@@ -122,11 +133,15 @@ const RAW = {
     [E, 'Enamor CloudSoft Invisi Neckline Everyday T-Shirt Bra - A032', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_6abeb340-96aa-4ca1-8a4c-d4add7fb103a.jpg', 'Cotton everyday padded wirefree bra, medium coverage'],
     [E, 'Enamor Fabcool Breathable Cup T-Shirt Bra - A165 (Pale Skin)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_59fbeb2a-53e0-4b96-882d-2793c9d96359.jpg', 'Breathable cooling cotton, padded wirefree, high coverage'],
     [E, 'Enamor Fabcool Breathable Cup T-Shirt Bra - A165 (Black)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_d83247f8-089c-4aa2-a82a-8a520eac60c0.jpg', 'Breathable cooling cotton, padded wirefree, high coverage'],
+    [V, 'Van Heusen Anti-Bacterial Padded Breathable Bra', 'https://imagescdn.vanheusenindia.com/img/app/product/3/364473-1840448.jpg', 'Anti-bacterial padded bra, no-slip strap, flexi wires'],
+    [V, 'Van Heusen Wired Lace-Tipped Anti-Bacterial Bra', 'https://imagescdn.vanheusenindia.com/img/app/product/3/364195-1838256.jpg', 'Anti-bacterial wired bra with lace tipping'],
   ],
   'women-tshirts-full': [
     [J, 'Micro Modal Round Neck Full Sleeve T-Shirt - Pageant Blue', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/RX21_PGTBU_0103_S224_JKY_1.webp?v=1721199690', 'Micro Modal Cotton, relaxed fit, curved hem'],
     [J, 'Cotton Rich Round Neck Full Sleeve T-Shirt - Puce', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/A140_PUCE_0103_S225_JKY_1_9ab41f0b-d6a9-4dc6-934a-a03c78f61670.webp?v=1762849929', 'Super Combed Cotton Rich, relaxed fit, round neck'],
     [J, 'Cotton Rich Oversized Printed Full Sleeve T-Shirt - Abyss', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/WZ17_ABYSS_0101_S225_Jky_1.webp?v=1764565164', 'Super Combed Cotton Rich, oversized fit, printed'],
+    [V, 'Van Heusen Women Beige Long Sleeve Shirt', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40225563-25108100.jpg', 'Solid long-sleeve shirt, smart casual'],
+    [V, 'Van Heusen Women Red Stripe Long Sleeve Shirt', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40236304-25262589.jpg', 'Striped long-sleeve casual shirt'],
   ],
   'women-tshirts-half': [
     [J, 'Micro Modal V Neck Half Sleeve T-Shirt - Purple Wine', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/RX12_PURWI_0105_S123_JKY_1.webp?v=1701683524', 'Micro Modal Cotton, relaxed fit, V neck'],
@@ -149,6 +164,8 @@ const RAW = {
     [J, 'Micro Modal Printed Pyjama - Purple Wine', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/RX09_PURWI_0103_S223_JKY_1.webp?v=1700028785', 'Micro Modal Cotton, relaxed fit, printed'],
     [J, 'Cotton Printed Pyjama with Side Pockets - Orchid Pink', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/RX47_ORPNK_0103_S223_JKY_1_8a84b600-2fe8-4a17-8e1b-c57621566767.webp?v=1700026717', '100% Super Combed Cotton, relaxed fit, side pockets'],
     [J, 'Cotton Printed Pyjama with Side Pockets - Pageant Blue', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/RX88_PGTBU_0103_S224_JKY_1.webp?v=1721908860', '100% Super Combed Cotton, all-over print, relaxed fit'],
+    [V, 'Van Heusen Smocked Waist Essential Pyjamas', 'https://imagescdn.vanheusenindia.com/img/app/product/6/655321-6634614.jpg', 'Soft essential pyjamas with smocked waist'],
+    [V, 'Van Heusen Printed Cotton Pyjamas with Pockets', 'https://imagescdn.vanheusenindia.com/img/app/product/6/617319-5909311.jpg', 'Printed cotton pyjamas with side pockets'],
   ],
   'women-tracks': [
     [J, 'Cotton Stretch Relaxed Fit Trackpants - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/1302_BLACK_0105_S223_JKY_1_4c38256a-45a1-4169-9bc2-f4dcfe48f9c4.webp?v=1700007718', 'Super Combed Cotton Elastane Stretch, relaxed fit'],
@@ -162,6 +179,8 @@ const RAW = {
     [J, 'Cotton Rich Thermal Leggings - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/2520_BLACK_0105_S123_JKY_1.webp?v=1700007558', 'Super Combed Cotton Rich, StayWarm leggings'],
     [J, 'Cotton Stretch Leggings with Ultrasoft Waistband - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/AW87_BLACK_0105_S123_JKY_1.webp?v=1700004750', 'Super Combed Cotton Elastane Stretch, ultrasoft waistband'],
     [J, 'Microfiber Performance Leggings - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/MW20_BLACK_0103_S223_JKY_1_f53af55b-5fd3-4d9d-847f-ae0184e5cf82.webp?v=1700004778', 'Microfiber Elastane Stretch, elasticated waistband'],
+    [E, 'Enamor Drawstring Lounge Pants', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_54e5593b-5df8-4206-8740-301432d7ba7d.jpg', 'Yoga-inspired mid-rise drawstring lounge pants'],
+    [E, 'Enamor Straight-Leg Lounge Pants', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_41af5dad-7701-407c-8a65-11998ed02d02.jpg', 'Breathable cotton jersey, full-length straight leg'],
   ],
   'women-gym-wear': [
     [J, 'Cotton Rib Racerback Tank Top - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/1467_BLACK_0105_S123_JKY_1.webp?v=1725619865', '100% Super Combed Cotton Rib, slim fit, racerback'],
@@ -170,20 +189,21 @@ const RAW = {
     [J, 'Cotton Printed Racerback Tank Top - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/A155_BLACK_0103_S125_JKY_1.webp?v=1747555894', '100% Super Combed Cotton, relaxed fit, racerback'],
     [E, 'Enamor Medium Impact Racerback Sports Bra - SB08 (Pearl)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_613e954b-e447-4182-bb0d-ef6b0b77fc1d.jpg', 'Padded removable cups, wirefree, high coverage'],
     [E, 'Enamor High-Impact Bounce Control Sports Bra - SB25 (Pearl)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_db65617e-1dbe-43a6-952e-2f498eb6ff19.jpg', 'Padded, wirefree, full coverage, Y-panel hold'],
+    [V, 'Van Heusen Racerback Proactive Sports Bra', 'https://imagescdn.vanheusenindia.com/img/app/product/8/810910-9658724.jpg', 'Anti-bacterial, wireless, lightly padded sports bra'],
   ],
   'women-coord-sets': [
-    [E, 'Enamor Drawstring Travel Pants - Jet Black', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_74d43ee9-3cc0-47d9-88b2-89ed95793b64.jpg', 'Quick dry & 4-way stretch, relaxed fit, antimicrobial'],
-    [E, 'Enamor Drawstring Travel Pants - Navy', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_303ae191-3131-4da5-bb6e-bcb8aa320e92.jpg', 'Quick dry & 4-way stretch, relaxed fit, antimicrobial'],
-    [E, 'Enamor Scoop Neck Basic Active T-Shirt', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/products/1_1539_1.jpg', 'Quick dry & 4-way stretch, relaxed fit, antimicrobial'],
-    [E, 'Enamor Cotton Terry Jogger - Greek Blue', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/products/1_2824_6.jpg', '4-way stretch soft cotton French Terry, slim fit'],
-    [V, 'Van Heusen Women Brown Knee Length Dress', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40236227-25260418.jpg', 'Solid knee-length casual dress'],
-    [V, 'Van Heusen Women White Print Knee Length Dress', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40574467-31433361.jpg', 'Printed knee-length casual dress'],
+    [J, 'Micro Modal Cotton T-Shirt & Pyjama Sleep Set - Peach Blossom', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/RX85_PBLOS_0103_S224_JKY_1.webp', 'Matching short-sleeve tee and pyjama sleep set'],
+    [J, 'Micro Modal Cotton T-Shirt & Printed Shorts Set - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/RX80_BLACK_0103_S124_JKY_1.webp', 'Matching short-sleeve tee and printed shorts set'],
+    [J, 'Cotton Printed T-Shirt & Pyjama Sleep Set - Coral', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/RX99-CRLPR_0101_S1.26_JKY_1.webp', 'Matching printed tee and pyjama sleep set'],
+    [E, 'Enamor Cotton Terry Co-ord Jogger - Greek Blue', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/products/1_2824_6.jpg', '4-way stretch soft cotton French Terry, slim fit'],
   ],
   'women-thermals': [
     [J, 'Soft Touch Fleece Full Sleeve Thermal Top - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/2540_BLACK_0103_S123_JKY_1.webp?v=1700003857', 'Ultra Warmth Soft Touch Microfiber Fleece, StayWarm'],
     [J, 'Soft Touch Fleece Thermal Leggings - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/2541_BLACK_0103_S123_JKY_1.webp?v=1700007571', 'Ultra Warmth Soft Touch Microfiber Fleece, StayWarm'],
     [J, 'Cotton Rich Three Quarter Sleeve Thermal Set - Charcoal Melange', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/2549_CHAML_0105_S123_JKY_1.webp?v=1759986357', 'Super Combed Cotton Rich, StayWarm thermal set'],
     [J, 'Soft Touch Thermal Leggings - Skin', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/2523_SKIN_0105_S123_JKY_1.webp?v=1700031885', 'Warmth Soft Touch Microfiber Elastane Stretch, StayWarm'],
+    [E, 'Enamor HeatSkin Thermal Leggings - TH06', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_a3b85775-1591-45c6-b267-e9ff668f7c3c.jpg', 'HeatSkin soft heat-generating fabric thermal leggings'],
+    [E, 'Enamor HeatSkin Thermal Sleeve Top - TH05', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_be7f0575-7c34-4f46-8a85-b4cfe6a4e864.jpg', 'HeatSkin three-quarter sleeve thermal top'],
   ],
   'women-accessories': [
     [J, 'Modal Blend Scalloped Crew Length Socks - White', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/7416_WHITE_0105_S126_JKY_0.jpg?v=1782482829', 'Modal blend, scalloped welt, StayFresh treatment'],
@@ -198,6 +218,8 @@ const RAW = {
     [J, "Kid's Cotton Stretch Knee Length Socks - White (Pack of 2)", 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/7902_WHITE_0205_S123_JKY_0_8ba64a23-b97c-475d-9936-f305612c73aa.webp?v=1736419611', 'Compact cotton stretch, knee length, pack of 2'],
     [J, "Kid's Cotton Stretch Calf Length Socks - White", 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/7800_WHITE_0105_S123_JKY_3_ece6f385-1cf1-410e-8673-2623b02fe003.webp?v=1704955131', 'Compact cotton stretch, calf length, StayFresh treatment'],
     [J, "Kid's Cotton Stretch Calf Length Socks - White (Pack of 2)", 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/7800_WHITE_0205_S123_JKY_00_00ed21c6-412c-44bc-9615-c17a98928d22.webp?v=1736416410', 'Compact cotton stretch, calf length, pack of 2'],
+    [U, "Boys Mid-Calf Length Socks (Pack of 3)", 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_1f0c2f54-40ca-4aef-baf8-303e10f8f197.jpg', 'Mid-calf length, ribbed top with branding, pack of 3'],
+    [U, "Boys High-Ankle Length Socks (Pack of 3)", 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_ac9d965b-ae66-4bff-92ba-d8ee0df0b167.jpg', 'High-ankle length, ribbed top with branding, pack of 3'],
   ],
 }
 

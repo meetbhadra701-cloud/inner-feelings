@@ -108,6 +108,24 @@
     "image": "/images/men-tshirts-full-jockey-4.jpg"
   },
   {
+    "id": "men-tshirts-full-uspa-5",
+    "department": "Men",
+    "category": "men-tshirts-full",
+    "brand": "U.S. Polo Assn.",
+    "name": "Outdoor Muscle Fit Long Sleeve T-Shirt",
+    "description": "Turtle neck, long sleeves, solid muscle fit",
+    "image": "/images/men-tshirts-full-uspa-5.jpg"
+  },
+  {
+    "id": "men-tshirts-full-uspa-6",
+    "department": "Men",
+    "category": "men-tshirts-full",
+    "brand": "U.S. Polo Assn.",
+    "name": "Muscle Fit Striped Long Sleeve T-Shirt",
+    "description": "Ribbed crew neck, long sleeves, horizontal stripe",
+    "image": "/images/men-tshirts-full-uspa-6.jpg"
+  },
+  {
     "id": "men-tshirts-half-jockey-1",
     "department": "Men",
     "category": "men-tshirts-half",
@@ -196,6 +214,24 @@
     "name": "Mid Rise Pure Cotton Boxers",
     "description": "Mid-rise, contrast elasticised waistband, pure cotton",
     "image": "/images/men-boxers-uspa-6.jpg"
+  },
+  {
+    "id": "men-boxers-vanheusen-7",
+    "department": "Men",
+    "category": "men-boxers",
+    "brand": "Van Heusen",
+    "name": "Pure Cotton Elasticated Boxer Shorts",
+    "description": "Pure cotton with elasticated waistband",
+    "image": "/images/men-boxers-vanheusen-7.jpg"
+  },
+  {
+    "id": "men-boxers-vanheusen-8",
+    "department": "Men",
+    "category": "men-boxers",
+    "brand": "Van Heusen",
+    "name": "Side Pocket Boxer Shorts (Pack of 2)",
+    "description": "Superior lustre cotton, side pockets, pack of 2",
+    "image": "/images/men-boxers-vanheusen-8.jpg"
   },
   {
     "id": "men-shorts-jockey-1",
@@ -378,6 +414,24 @@
     "image": "/images/men-joggers-uspa-6.jpg"
   },
   {
+    "id": "men-joggers-vanheusen-7",
+    "department": "Men",
+    "category": "men-joggers",
+    "brand": "Van Heusen",
+    "name": "Athleisure City Jogger Pants - Black",
+    "description": "Athleisure jogger pants, comfortable fit",
+    "image": "/images/men-joggers-vanheusen-7.jpg"
+  },
+  {
+    "id": "men-joggers-vanheusen-8",
+    "department": "Men",
+    "category": "men-joggers",
+    "brand": "Van Heusen",
+    "name": "Smart Tech Joggers - Easy Stain Release",
+    "description": "Smart-tech joggers, easy stain release, anti-stat",
+    "image": "/images/men-joggers-vanheusen-8.jpg"
+  },
+  {
     "id": "men-gym-wear-jockey-1",
     "department": "Men",
     "category": "men-gym-wear",
@@ -486,6 +540,33 @@
     "image": "/images/men-thermals-jockey-4.jpg"
   },
   {
+    "id": "men-thermals-vanheusen-5",
+    "department": "Men",
+    "category": "men-thermals",
+    "brand": "Van Heusen",
+    "name": "Anti-Bacterial Low Neck Thermal Top - Ivory",
+    "description": "Anti-bacterial low-neck thermal top",
+    "image": "/images/men-thermals-vanheusen-5.jpg"
+  },
+  {
+    "id": "men-thermals-vanheusen-6",
+    "department": "Men",
+    "category": "men-thermals",
+    "brand": "Van Heusen",
+    "name": "Anti-Bacterial Thermal Top - Charcoal Melange",
+    "description": "Anti-bacterial low-neck thermal top",
+    "image": "/images/men-thermals-vanheusen-6.jpg"
+  },
+  {
+    "id": "men-thermals-uspa-7",
+    "department": "Men",
+    "category": "men-thermals",
+    "brand": "U.S. Polo Assn.",
+    "name": "Slim Fit Heathered Thermal T-Shirt",
+    "description": "Scoop neck, long sleeves, slim-fit thermal tee",
+    "image": "/images/men-thermals-uspa-7.jpg"
+  },
+  {
     "id": "men-accessories-jockey-1",
     "department": "Men",
     "category": "men-accessories",
@@ -558,6 +639,15 @@
     "image": "/images/men-accessories-vanheusen-8.jpg"
   },
   {
+    "id": "men-accessories-uspa-9",
+    "department": "Men",
+    "category": "men-accessories",
+    "brand": "U.S. Polo Assn.",
+    "name": "Pure Cotton Brand Logo Handkerchiefs (Pack of 3)",
+    "description": "Pure cotton, brand-logo embroidered, pack of 3",
+    "image": "/images/men-accessories-uspa-9.jpg"
+  },
+  {
     "id": "women-undergarments-jockey-1",
     "department": "Women",
     "category": "women-undergarments",
@@ -612,22 +702,31 @@
     "image": "/images/women-undergarments-enamor-6.jpg"
   },
   {
-    "id": "women-undergarments-vanheusen-7",
+    "id": "women-undergarments-jockey-7",
     "department": "Women",
     "category": "women-undergarments",
-    "brand": "Van Heusen",
-    "name": "Van Heusen Cotton Minimizer Bra - Non Padded Wireless",
-    "description": "High-stretch cotton, wireless, double-lined cups",
-    "image": "/images/women-undergarments-vanheusen-7.jpg"
+    "brand": "Jockey",
+    "name": "Bonded Tech Wirefree Padded Lounge Bra - Pomegranate",
+    "description": "Soft-touch microfiber bonded tech, 360° stretch, full coverage",
+    "image": "/images/women-undergarments-jockey-7.jpg"
   },
   {
     "id": "women-undergarments-vanheusen-8",
     "department": "Women",
     "category": "women-undergarments",
     "brand": "Van Heusen",
+    "name": "Van Heusen Cotton Minimizer Bra - Non Padded Wireless",
+    "description": "High-stretch cotton, wireless, double-lined cups",
+    "image": "/images/women-undergarments-vanheusen-8.jpg"
+  },
+  {
+    "id": "women-undergarments-vanheusen-9",
+    "department": "Women",
+    "category": "women-undergarments",
+    "brand": "Van Heusen",
     "name": "Van Heusen Anti-Bacterial Shaper Bra - Skin",
     "description": "Anti-bacterial, non-padded shaper, full coverage",
-    "image": "/images/women-undergarments-vanheusen-8.jpg"
+    "image": "/images/women-undergarments-vanheusen-9.jpg"
   },
   {
     "id": "women-lingerie-enamor-1",
@@ -666,6 +765,24 @@
     "image": "/images/women-lingerie-enamor-4.jpg"
   },
   {
+    "id": "women-lingerie-vanheusen-5",
+    "department": "Women",
+    "category": "women-lingerie",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Anti-Bacterial Padded Breathable Bra",
+    "description": "Anti-bacterial padded bra, no-slip strap, flexi wires",
+    "image": "/images/women-lingerie-vanheusen-5.jpg"
+  },
+  {
+    "id": "women-lingerie-vanheusen-6",
+    "department": "Women",
+    "category": "women-lingerie",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Wired Lace-Tipped Anti-Bacterial Bra",
+    "description": "Anti-bacterial wired bra with lace tipping",
+    "image": "/images/women-lingerie-vanheusen-6.jpg"
+  },
+  {
     "id": "women-tshirts-full-jockey-1",
     "department": "Women",
     "category": "women-tshirts-full",
@@ -691,6 +808,24 @@
     "name": "Cotton Rich Oversized Printed Full Sleeve T-Shirt - Abyss",
     "description": "Super Combed Cotton Rich, oversized fit, printed",
     "image": "/images/women-tshirts-full-jockey-3.jpg"
+  },
+  {
+    "id": "women-tshirts-full-vanheusen-4",
+    "department": "Women",
+    "category": "women-tshirts-full",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Women Beige Long Sleeve Shirt",
+    "description": "Solid long-sleeve shirt, smart casual",
+    "image": "/images/women-tshirts-full-vanheusen-4.jpg"
+  },
+  {
+    "id": "women-tshirts-full-vanheusen-5",
+    "department": "Women",
+    "category": "women-tshirts-full",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Women Red Stripe Long Sleeve Shirt",
+    "description": "Striped long-sleeve casual shirt",
+    "image": "/images/women-tshirts-full-vanheusen-5.jpg"
   },
   {
     "id": "women-tshirts-half-jockey-1",
@@ -837,6 +972,24 @@
     "image": "/images/women-night-pajamas-jockey-4.jpg"
   },
   {
+    "id": "women-night-pajamas-vanheusen-5",
+    "department": "Women",
+    "category": "women-night-pajamas",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Smocked Waist Essential Pyjamas",
+    "description": "Soft essential pyjamas with smocked waist",
+    "image": "/images/women-night-pajamas-vanheusen-5.jpg"
+  },
+  {
+    "id": "women-night-pajamas-vanheusen-6",
+    "department": "Women",
+    "category": "women-night-pajamas",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Printed Cotton Pyjamas with Pockets",
+    "description": "Printed cotton pyjamas with side pockets",
+    "image": "/images/women-night-pajamas-vanheusen-6.jpg"
+  },
+  {
     "id": "women-tracks-jockey-1",
     "department": "Women",
     "category": "women-tracks",
@@ -918,6 +1071,24 @@
     "image": "/images/women-yoga-wear-jockey-3.jpg"
   },
   {
+    "id": "women-yoga-wear-enamor-4",
+    "department": "Women",
+    "category": "women-yoga-wear",
+    "brand": "Enamor",
+    "name": "Enamor Drawstring Lounge Pants",
+    "description": "Yoga-inspired mid-rise drawstring lounge pants",
+    "image": "/images/women-yoga-wear-enamor-4.jpg"
+  },
+  {
+    "id": "women-yoga-wear-enamor-5",
+    "department": "Women",
+    "category": "women-yoga-wear",
+    "brand": "Enamor",
+    "name": "Enamor Straight-Leg Lounge Pants",
+    "description": "Breathable cotton jersey, full-length straight leg",
+    "image": "/images/women-yoga-wear-enamor-5.jpg"
+  },
+  {
     "id": "women-gym-wear-jockey-1",
     "department": "Women",
     "category": "women-gym-wear",
@@ -972,58 +1143,49 @@
     "image": "/images/women-gym-wear-enamor-6.jpg"
   },
   {
-    "id": "women-coord-sets-enamor-1",
+    "id": "women-gym-wear-vanheusen-7",
     "department": "Women",
-    "category": "women-coord-sets",
-    "brand": "Enamor",
-    "name": "Enamor Drawstring Travel Pants - Jet Black",
-    "description": "Quick dry & 4-way stretch, relaxed fit, antimicrobial",
-    "image": "/images/women-coord-sets-enamor-1.jpg"
+    "category": "women-gym-wear",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Racerback Proactive Sports Bra",
+    "description": "Anti-bacterial, wireless, lightly padded sports bra",
+    "image": "/images/women-gym-wear-vanheusen-7.jpg"
   },
   {
-    "id": "women-coord-sets-enamor-2",
+    "id": "women-coord-sets-jockey-1",
     "department": "Women",
     "category": "women-coord-sets",
-    "brand": "Enamor",
-    "name": "Enamor Drawstring Travel Pants - Navy",
-    "description": "Quick dry & 4-way stretch, relaxed fit, antimicrobial",
-    "image": "/images/women-coord-sets-enamor-2.jpg"
+    "brand": "Jockey",
+    "name": "Micro Modal Cotton T-Shirt & Pyjama Sleep Set - Peach Blossom",
+    "description": "Matching short-sleeve tee and pyjama sleep set",
+    "image": "/images/women-coord-sets-jockey-1.jpg"
   },
   {
-    "id": "women-coord-sets-enamor-3",
+    "id": "women-coord-sets-jockey-2",
     "department": "Women",
     "category": "women-coord-sets",
-    "brand": "Enamor",
-    "name": "Enamor Scoop Neck Basic Active T-Shirt",
-    "description": "Quick dry & 4-way stretch, relaxed fit, antimicrobial",
-    "image": "/images/women-coord-sets-enamor-3.jpg"
+    "brand": "Jockey",
+    "name": "Micro Modal Cotton T-Shirt & Printed Shorts Set - Black",
+    "description": "Matching short-sleeve tee and printed shorts set",
+    "image": "/images/women-coord-sets-jockey-2.jpg"
+  },
+  {
+    "id": "women-coord-sets-jockey-3",
+    "department": "Women",
+    "category": "women-coord-sets",
+    "brand": "Jockey",
+    "name": "Cotton Printed T-Shirt & Pyjama Sleep Set - Coral",
+    "description": "Matching printed tee and pyjama sleep set",
+    "image": "/images/women-coord-sets-jockey-3.jpg"
   },
   {
     "id": "women-coord-sets-enamor-4",
     "department": "Women",
     "category": "women-coord-sets",
     "brand": "Enamor",
-    "name": "Enamor Cotton Terry Jogger - Greek Blue",
+    "name": "Enamor Cotton Terry Co-ord Jogger - Greek Blue",
     "description": "4-way stretch soft cotton French Terry, slim fit",
     "image": "/images/women-coord-sets-enamor-4.jpg"
-  },
-  {
-    "id": "women-coord-sets-vanheusen-5",
-    "department": "Women",
-    "category": "women-coord-sets",
-    "brand": "Van Heusen",
-    "name": "Van Heusen Women Brown Knee Length Dress",
-    "description": "Solid knee-length casual dress",
-    "image": "/images/women-coord-sets-vanheusen-5.jpg"
-  },
-  {
-    "id": "women-coord-sets-vanheusen-6",
-    "department": "Women",
-    "category": "women-coord-sets",
-    "brand": "Van Heusen",
-    "name": "Van Heusen Women White Print Knee Length Dress",
-    "description": "Printed knee-length casual dress",
-    "image": "/images/women-coord-sets-vanheusen-6.jpg"
   },
   {
     "id": "women-thermals-jockey-1",
@@ -1060,6 +1222,24 @@
     "name": "Soft Touch Thermal Leggings - Skin",
     "description": "Warmth Soft Touch Microfiber Elastane Stretch, StayWarm",
     "image": "/images/women-thermals-jockey-4.jpg"
+  },
+  {
+    "id": "women-thermals-enamor-5",
+    "department": "Women",
+    "category": "women-thermals",
+    "brand": "Enamor",
+    "name": "Enamor HeatSkin Thermal Leggings - TH06",
+    "description": "HeatSkin soft heat-generating fabric thermal leggings",
+    "image": "/images/women-thermals-enamor-5.jpg"
+  },
+  {
+    "id": "women-thermals-enamor-6",
+    "department": "Women",
+    "category": "women-thermals",
+    "brand": "Enamor",
+    "name": "Enamor HeatSkin Thermal Sleeve Top - TH05",
+    "description": "HeatSkin three-quarter sleeve thermal top",
+    "image": "/images/women-thermals-enamor-6.jpg"
   },
   {
     "id": "women-accessories-jockey-1",
@@ -1141,5 +1321,23 @@
     "name": "Kid's Cotton Stretch Calf Length Socks - White (Pack of 2)",
     "description": "Compact cotton stretch, calf length, pack of 2",
     "image": "/images/kids-socks-jockey-4.jpg"
+  },
+  {
+    "id": "kids-socks-uspa-5",
+    "department": "Kids",
+    "category": "kids-socks",
+    "brand": "U.S. Polo Assn.",
+    "name": "Boys Mid-Calf Length Socks (Pack of 3)",
+    "description": "Mid-calf length, ribbed top with branding, pack of 3",
+    "image": "/images/kids-socks-uspa-5.jpg"
+  },
+  {
+    "id": "kids-socks-uspa-6",
+    "department": "Kids",
+    "category": "kids-socks",
+    "brand": "U.S. Polo Assn.",
+    "name": "Boys High-Ankle Length Socks (Pack of 3)",
+    "description": "High-ankle length, ribbed top with branding, pack of 3",
+    "image": "/images/kids-socks-uspa-6.jpg"
   }
 ]
