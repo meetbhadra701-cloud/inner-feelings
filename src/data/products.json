@@ -54,6 +54,24 @@
     "image": "/images/men-undergarments-uspa-6.jpg"
   },
   {
+    "id": "men-undergarments-vanheusen-7",
+    "department": "Men",
+    "category": "men-undergarments",
+    "brand": "Van Heusen",
+    "name": "Anti-Bacterial Cotton Boxer Briefs - Quick Dry",
+    "description": "Anti-bacterial cotton, colour-fresh and quick dry",
+    "image": "/images/men-undergarments-vanheusen-7.jpg"
+  },
+  {
+    "id": "men-undergarments-vanheusen-8",
+    "department": "Men",
+    "category": "men-undergarments",
+    "brand": "Van Heusen",
+    "name": "Air Series Active Brief - Swift Dry Mesh",
+    "description": "Swift-dry high-stretch breathable mesh, active fit",
+    "image": "/images/men-undergarments-vanheusen-8.jpg"
+  },
+  {
     "id": "men-tshirts-full-jockey-1",
     "department": "Men",
     "category": "men-tshirts-full",
@@ -234,6 +252,24 @@
     "image": "/images/men-shorts-uspa-6.jpg"
   },
   {
+    "id": "men-shorts-vanheusen-7",
+    "department": "Men",
+    "category": "men-shorts",
+    "brand": "Van Heusen",
+    "name": "Men Beige Solid Casual Shorts",
+    "description": "Solid casual shorts, comfortable everyday fit",
+    "image": "/images/men-shorts-vanheusen-7.jpg"
+  },
+  {
+    "id": "men-shorts-vanheusen-8",
+    "department": "Men",
+    "category": "men-shorts",
+    "brand": "Van Heusen",
+    "name": "Men Navy Solid Casual Lounge Shorts",
+    "description": "Soft solid lounge shorts, relaxed fit",
+    "image": "/images/men-shorts-vanheusen-8.jpg"
+  },
+  {
     "id": "men-night-pajamas-jockey-1",
     "department": "Men",
     "category": "men-night-pajamas",
@@ -396,6 +432,24 @@
     "image": "/images/men-gym-wear-uspa-6.jpg"
   },
   {
+    "id": "men-gym-wear-vanheusen-7",
+    "department": "Men",
+    "category": "men-gym-wear",
+    "brand": "Van Heusen",
+    "name": "Swift Dry Vest - Odour Shield",
+    "description": "Swift-dry with odour shield and anti-stat finish",
+    "image": "/images/men-gym-wear-vanheusen-7.jpg"
+  },
+  {
+    "id": "men-gym-wear-vanheusen-8",
+    "department": "Men",
+    "category": "men-gym-wear",
+    "brand": "Van Heusen",
+    "name": "Graphic Print Sleeveless Vest",
+    "description": "Sleeveless loose-fit vest with graphic print",
+    "image": "/images/men-gym-wear-vanheusen-8.jpg"
+  },
+  {
     "id": "men-thermals-jockey-1",
     "department": "Men",
     "category": "men-thermals",
@@ -486,6 +540,24 @@
     "image": "/images/men-accessories-jockey-6.jpg"
   },
   {
+    "id": "men-accessories-vanheusen-7",
+    "department": "Men",
+    "category": "men-accessories",
+    "brand": "Van Heusen",
+    "name": "Solid Crew Socks (Pack of 3)",
+    "description": "Soft cotton-blend crew socks, pack of 3",
+    "image": "/images/men-accessories-vanheusen-7.jpg"
+  },
+  {
+    "id": "men-accessories-vanheusen-8",
+    "department": "Men",
+    "category": "men-accessories",
+    "brand": "Van Heusen",
+    "name": "Navy Warmtech Thermal Socks",
+    "description": "Warmtech ankle-length thermal socks",
+    "image": "/images/men-accessories-vanheusen-8.jpg"
+  },
+  {
     "id": "women-undergarments-jockey-1",
     "department": "Women",
     "category": "women-undergarments",
@@ -538,6 +610,24 @@
     "name": "Enamor Super Lift Cotton Minimizer Bra - A112 (Pale Skin)",
     "description": "Non-padded, wirefree, full coverage, hidden X-frame",
     "image": "/images/women-undergarments-enamor-6.jpg"
+  },
+  {
+    "id": "women-undergarments-vanheusen-7",
+    "department": "Women",
+    "category": "women-undergarments",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Cotton Minimizer Bra - Non Padded Wireless",
+    "description": "High-stretch cotton, wireless, double-lined cups",
+    "image": "/images/women-undergarments-vanheusen-7.jpg"
+  },
+  {
+    "id": "women-undergarments-vanheusen-8",
+    "department": "Women",
+    "category": "women-undergarments",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Anti-Bacterial Shaper Bra - Skin",
+    "description": "Anti-bacterial, non-padded shaper, full coverage",
+    "image": "/images/women-undergarments-vanheusen-8.jpg"
   },
   {
     "id": "women-lingerie-enamor-1",
@@ -693,6 +783,24 @@
     "image": "/images/women-shorts-enamor-6.jpg"
   },
   {
+    "id": "women-shorts-vanheusen-7",
+    "department": "Women",
+    "category": "women-shorts",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Women Beige Stripe Shorts",
+    "description": "Striped casual shorts, comfortable everyday fit",
+    "image": "/images/women-shorts-vanheusen-7.jpg"
+  },
+  {
+    "id": "women-shorts-vanheusen-8",
+    "department": "Women",
+    "category": "women-shorts",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Women Black Textured Shorts",
+    "description": "Textured casual shorts, relaxed fit",
+    "image": "/images/women-shorts-vanheusen-8.jpg"
+  },
+  {
     "id": "women-night-pajamas-jockey-1",
     "department": "Women",
     "category": "women-night-pajamas",
@@ -763,6 +871,24 @@
     "name": "Cotton French Terry Straight Fit Trackpants - Wine Tasting",
     "description": "Super Combed Cotton Elastane French Terry, side pockets",
     "image": "/images/women-tracks-jockey-4.jpg"
+  },
+  {
+    "id": "women-tracks-vanheusen-5",
+    "department": "Women",
+    "category": "women-tracks",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Women Brown Solid Casual Trousers",
+    "description": "Solid casual trousers, relaxed everyday fit",
+    "image": "/images/women-tracks-vanheusen-5.jpg"
+  },
+  {
+    "id": "women-tracks-vanheusen-6",
+    "department": "Women",
+    "category": "women-tracks",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Women Light Blue Stripe Trousers",
+    "description": "Striped casual trousers, comfortable fit",
+    "image": "/images/women-tracks-vanheusen-6.jpg"
   },
   {
     "id": "women-yoga-wear-jockey-1",
@@ -880,6 +1006,24 @@
     "name": "Enamor Cotton Terry Jogger - Greek Blue",
     "description": "4-way stretch soft cotton French Terry, slim fit",
     "image": "/images/women-coord-sets-enamor-4.jpg"
+  },
+  {
+    "id": "women-coord-sets-vanheusen-5",
+    "department": "Women",
+    "category": "women-coord-sets",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Women Brown Knee Length Dress",
+    "description": "Solid knee-length casual dress",
+    "image": "/images/women-coord-sets-vanheusen-5.jpg"
+  },
+  {
+    "id": "women-coord-sets-vanheusen-6",
+    "department": "Women",
+    "category": "women-coord-sets",
+    "brand": "Van Heusen",
+    "name": "Van Heusen Women White Print Knee Length Dress",
+    "description": "Printed knee-length casual dress",
+    "image": "/images/women-coord-sets-vanheusen-6.jpg"
   },
   {
     "id": "women-thermals-jockey-1",

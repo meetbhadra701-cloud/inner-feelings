@@ -31,6 +31,8 @@ const RAW = {
     [J, 'Microfiber Mesh Performance Boxer Brief - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/MM06_BLACK_0105_S123_JKY_1.webp?v=1725619829', 'Microfiber Mesh Elastane Stretch with StayDry Technology'],
     [U, 'Striped Waistband Cotton Briefs (Pack of 1)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_74aff4b0-fbe9-44d9-a8ea-3872633400f5.jpg', 'Mid-rise, super-soft elasticised waistband, pure cotton'],
     [U, 'Elastic Waistband Ribbed Cotton Trunks (Pack of 2)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_4474298f-2a67-49ed-8124-0dd3103ff409.jpg', 'Mid-rise, soft stretch elasticised waistband, ribbed cotton'],
+    [V, 'Anti-Bacterial Cotton Boxer Briefs - Quick Dry', 'https://imagescdn.vanheusenindia.com/img/app/product/6/664157-31306058.jpg', 'Anti-bacterial cotton, colour-fresh and quick dry'],
+    [V, 'Air Series Active Brief - Swift Dry Mesh', 'https://imagescdn.vanheusenindia.com/img/app/product/8/856236-31413194.jpg', 'Swift-dry high-stretch breathable mesh, active fit'],
   ],
   'men-tshirts-full': [
     [J, 'Super Combed Cotton Round Neck Full Sleeve T-Shirt - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/AM95_BLACK_0103_S223_JKY_1.webp?v=1725619824', 'Super Combed Cotton Rich, Round Neck, Full Sleeve'],
@@ -59,6 +61,8 @@ const RAW = {
     [J, 'Cotton Rich Straight Fit Shorts with Zipper Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/AM14_BLACK_0103_S123_JKY_1.webp?v=1700007218', 'Super Combed Cotton Rich, straight fit, zipper pockets'],
     [U, 'Mid Rise Slim Fit Shorts', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_1bc2c187-ca88-4d1c-b191-a1a77fe8fe77.jpg', 'Mid-rise, slim fit, four pockets, woven'],
     [U, 'Regular Fit Knitted Shorts', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_bddbb141-295a-46bc-ab04-daaadc34aa8c.jpg', 'Mid-rise, drawstring, three pockets, knitted'],
+    [V, 'Men Beige Solid Casual Shorts', 'https://imagescdn.vanheusenindia.com/img/app/product/3/39894109-17919495.jpg', 'Solid casual shorts, comfortable everyday fit'],
+    [V, 'Men Navy Solid Casual Lounge Shorts', 'https://imagescdn.vanheusenindia.com/img/app/product/3/39909950-18332261.jpg', 'Soft solid lounge shorts, relaxed fit'],
   ],
   'men-night-pajamas': [
     [J, 'Micro Modal Cotton Stretch Pyjama - Mid Blue', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/IM03_MDBU1_0103_S223_JKY_1.webp?v=1700021637', 'Tencel Micro Modal Cotton Elastane Stretch, side pockets'],
@@ -83,6 +87,8 @@ const RAW = {
     [J, 'Cotton Rib Square Neck Gym Vest with Graphic Print - White', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/US54_WHITE_0105_S125_JKY_1_webp.webp?v=1771322975', '100% Super Combed Cotton Rib, graphic print'],
     [U, 'Round Neck Cotton Jersey Vest (Pack of 1)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_f23e4b71-26c2-4653-97b0-a225ffed23ff.jpg', 'Round neck, sleeveless cotton jersey'],
     [U, 'Scoop Neck Sleeveless Cotton Vests (Pack of 2)', 'https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_013221a8-b2e7-46c4-a6d7-6fdbe1099f86.jpg', 'Scoop neck, sleeveless, low-cut armhole, pack of 2'],
+    [V, 'Swift Dry Vest - Odour Shield', 'https://imagescdn.vanheusenindia.com/img/app/product/8/873183-10411044.jpg', 'Swift-dry with odour shield and anti-stat finish'],
+    [V, 'Graphic Print Sleeveless Vest', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40006936-20559487.jpg', 'Sleeveless loose-fit vest with graphic print'],
   ],
   'men-thermals': [
     [J, 'Soft Touch Fleece Thermal Long John - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/2623_BLACK_0103_S123_JKY_1.webp?v=1725619830', 'Ultra Warmth Soft Touch Microfiber Fleece, StayWarm'],
@@ -97,6 +103,8 @@ const RAW = {
     [J, 'Bamboo Fiber Ankle Length Socks - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/7398_BLACK_0110_S225_Jky_0.webp?v=1761541178', 'Environment-friendly bamboo fiber, 4-way stretch'],
     [J, 'Cotton Handkerchiefs - Assorted (Pack of 3)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/HK03_ASSTD_0310_S123_JKY_3.webp', '100% Super Combed Cotton with StayFresh treatment'],
     [J, 'Cotton Handkerchiefs - White (Pack of 3)', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/files/HK01_WHITE_0310_S123_JKY_1.webp', '100% Super Combed Cotton with StayFresh treatment'],
+    [V, 'Solid Crew Socks (Pack of 3)', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40074545-21808557.jpg', 'Soft cotton-blend crew socks, pack of 3'],
+    [V, 'Navy Warmtech Thermal Socks', 'https://imagescdn.vanheusenindia.com/img/app/product/6/668398-21786791.jpg', 'Warmtech ankle-length thermal socks'],
   ],
 
   'women-undergarments': [
@@ -106,6 +114,8 @@ const RAW = {
     [J, 'Wirefree Cotton Full Coverage Everyday Bra - Mocha', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/FE41_MOCHA_0105_S123_JKY_1_83fc2bd9-f46f-4f36-95bd-89ae63550b05.webp?v=1700022627', 'Super Combed Cotton Elastane Stretch, full coverage'],
     [E, 'Enamor Side Support Shaper Everyday Bra - A042 (Skin)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_0dffb7ea-c025-4a60-abf7-90e2d812a496.jpg', 'Non-padded, wirefree, smooth shaper, high coverage'],
     [E, 'Enamor Super Lift Cotton Minimizer Bra - A112 (Pale Skin)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_d6a847db-8297-4ba6-8247-eae9cab046d8.jpg', 'Non-padded, wirefree, full coverage, hidden X-frame'],
+    [V, 'Van Heusen Cotton Minimizer Bra - Non Padded Wireless', 'https://imagescdn.vanheusenindia.com/img/app/product/4/492002-31306003.jpg', 'High-stretch cotton, wireless, double-lined cups'],
+    [V, 'Van Heusen Anti-Bacterial Shaper Bra - Skin', 'https://imagescdn.vanheusenindia.com/img/app/product/7/794764-16705369.jpg', 'Anti-bacterial, non-padded shaper, full coverage'],
   ],
   'women-lingerie': [
     [E, 'Enamor Full Support Non-Padded Wirefree Bra - F097', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_e093fea4-f890-4463-b1d8-0da9d65b7dd4.jpg', 'M-Frame contour superlift with jiggle control, full support'],
@@ -131,6 +141,8 @@ const RAW = {
     [J, 'Cotton Relaxed Fit Sleep Shorts - Confetti', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/RX72_CNFTI_0103_S123_JKY_1_ea13ce65-523d-42ed-b8ca-7d55e751e8e7.webp?v=1700013096', 'Super Combed Cotton, relaxed fit, side pockets'],
     [E, 'Enamor Knee Length City Shorts - E044 (Navy)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_45185eae-90e7-481c-b69a-72758524c63b.jpg', 'Mid-rise, slim fit, soft breathable cotton'],
     [E, 'Enamor Hangout Shorts - E7A1 (Vintage Bloom)', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/2_5b80d228-c981-4e3e-b004-2876ac3429ff.jpg', 'Mid-rise, relaxed fit, soft light cotton'],
+    [V, 'Van Heusen Women Beige Stripe Shorts', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40574470-31433397.jpg', 'Striped casual shorts, comfortable everyday fit'],
+    [V, 'Van Heusen Women Black Textured Shorts', 'https://imagescdn.vanheusenindia.com/img/app/product/3/39943932-19046384.jpg', 'Textured casual shorts, relaxed fit'],
   ],
   'women-night-pajamas': [
     [J, 'Cotton Woven Striped Pyjama with Side Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/RX06_BLACK_0103_S223_JKY_1.webp?v=1700004873', '100% Super Combed Cotton Woven, relaxed fit'],
@@ -143,6 +155,8 @@ const RAW = {
     [J, 'Cotton Stretch Slim Fit Trackpants - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/1301_BLACK_0105_S223_JKY_1.webp?v=1700007705', 'Super Combed Cotton Elastane Stretch, slim fit'],
     [J, 'Microfiber Straight Fit Trackpants with Zipper Pockets - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/MW54_BLACK_0103_S223_JKY_1_18ee0ab5-03b7-4b95-9f14-18574897f3f0.webp?v=1700007816', 'Microfiber, straight fit, side zipper pockets'],
     [J, 'Cotton French Terry Straight Fit Trackpants - Wine Tasting', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/AW60_WINTG_0103_S223_JKY_1_022ded91-fa72-4c42-bcec-5edfea9ec0b2.webp?v=1700036277', 'Super Combed Cotton Elastane French Terry, side pockets'],
+    [V, 'Van Heusen Women Brown Solid Casual Trousers', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40198456-25285915.jpg', 'Solid casual trousers, relaxed everyday fit'],
+    [V, 'Van Heusen Women Light Blue Stripe Trousers', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40574472-31433408.jpg', 'Striped casual trousers, comfortable fit'],
   ],
   'women-yoga-wear': [
     [J, 'Cotton Rich Thermal Leggings - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/2520_BLACK_0105_S123_JKY_1.webp?v=1700007558', 'Super Combed Cotton Rich, StayWarm leggings'],
@@ -162,6 +176,8 @@ const RAW = {
     [E, 'Enamor Drawstring Travel Pants - Navy', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/files/1_303ae191-3131-4da5-bb6e-bcb8aa320e92.jpg', 'Quick dry & 4-way stretch, relaxed fit, antimicrobial'],
     [E, 'Enamor Scoop Neck Basic Active T-Shirt', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/products/1_1539_1.jpg', 'Quick dry & 4-way stretch, relaxed fit, antimicrobial'],
     [E, 'Enamor Cotton Terry Jogger - Greek Blue', 'https://cdn.shopify.com/s/files/1/0719/4843/5734/products/1_2824_6.jpg', '4-way stretch soft cotton French Terry, slim fit'],
+    [V, 'Van Heusen Women Brown Knee Length Dress', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40236227-25260418.jpg', 'Solid knee-length casual dress'],
+    [V, 'Van Heusen Women White Print Knee Length Dress', 'https://imagescdn.vanheusenindia.com/img/app/product/4/40574467-31433361.jpg', 'Printed knee-length casual dress'],
   ],
   'women-thermals': [
     [J, 'Soft Touch Fleece Full Sleeve Thermal Top - Black', 'https://cdn.shopify.com/s/files/1/0753/1056/3627/products/2540_BLACK_0103_S123_JKY_1.webp?v=1700003857', 'Ultra Warmth Soft Touch Microfiber Fleece, StayWarm'],
