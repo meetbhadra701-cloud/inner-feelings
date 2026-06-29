@@ -1,0 +1,82 @@
+{
+  "brand.name": "Inner Feelings",
+  "hero.tagline": "your inner secret",
+  "hero.trust": "{years} years in this business",
+  "hero.subtitle": "A trusted multi-brand store for innerwear & everyday clothing — for men, women and kids. Visit us in Ahmedabad or message us anytime.",
+  "hero.ctaBrowse": "Browse the collection",
+  "hero.ctaContact": "Visit / Contact",
+
+  "header.visitContact": "Visit / Contact",
+  "header.home": "Inner Feelings — go to home",
+
+  "lang.label": "Language",
+  "lang.changed": "Language set to English",
+
+  "skip.toContent": "Skip to main content",
+  "newTab": "(opens in a new tab)",
+
+  "dept.men": "Men",
+  "dept.women": "Women",
+  "dept.kids": "Kids",
+  "dept.group": "Choose a department",
+
+  "cat.group": "Filter by category",
+  "cat.all": "All",
+  "cat.undergarments": "Undergarments",
+  "cat.lingerie": "Lingerie",
+  "cat.tshirtsFull": "T-shirts (Full Sleeve)",
+  "cat.tshirtsHalf": "T-shirts (Half Sleeve)",
+  "cat.boxers": "Boxers",
+  "cat.shorts": "Shorts",
+  "cat.nightPajamas": "Night Pajamas",
+  "cat.joggers": "Joggers",
+  "cat.gymWear": "Gym Wear / Athleisure",
+  "cat.thermals": "Winter Thermals",
+  "cat.accessories": "Accessories",
+  "cat.tracks": "Tracks",
+  "cat.yogaWear": "Yoga Wear",
+  "cat.coordSets": "Co-ord Sets",
+  "cat.socks": "Socks",
+
+  "section.products": "Our collection",
+  "kids.note": "For ages 6–12 we stock socks — comfy, durable and sized just right.",
+
+  "results.count": "{count} items shown",
+  "results.countOne": "1 item shown",
+  "results.none": "No items match your filters. Try another category.",
+
+  "card.brand": "Brand",
+  "card.enquire": "Enquire on WhatsApp",
+  "card.enquireAria": "Enquire on WhatsApp about {name} ",
+  "card.viewDetails": "View details",
+  "card.viewDetailsAria": "View details for {name}",
+
+  "modal.close": "Close",
+  "modal.enquire": "Enquire on WhatsApp",
+  "modal.call": "Call the shop",
+  "modal.howToBuy": "No online ordering — visit us or message us and we'll help you in person.",
+
+  "howToBuy.title": "How to buy",
+  "howToBuy.visitLine": "Like something? Visit our store or contact us — we'll help you find your size and the best price in person.",
+  "howToBuy.porterTitle": "Want it delivered?",
+  "howToBuy.porterLine": "You can arrange delivery via Porter — just call us to set it up.",
+  "howToBuy.noPrices": "We don't list prices online. Message or call us for current prices and offers.",
+
+  "contact.title": "Visit us / Contact",
+  "contact.subtitle": "We're happy to help you find the right fit.",
+  "contact.whatsapp": "Chat on WhatsApp",
+  "contact.call": "Call us",
+  "contact.email": "Email us",
+  "contact.addressLabel": "Our store",
+  "contact.directions": "Get Directions",
+  "contact.directionsAria": "Get directions to Inner Feelings, {address} ",
+  "contact.quickLabel": "Quick contact",
+
+  "footer.disclaimer": "Brand names, product names, and images are trademarks of their respective owners, shown to represent stock available in-store.",
+  "footer.rights": "© {year} Inner Feelings. All rights reserved.",
+  "footer.tagline": "your inner secret — 10+ years serving Ahmedabad.",
+
+  "error.title": "Something went wrong",
+  "error.body": "Please refresh the page. If it keeps happening, reach us directly:",
+  "error.reload": "Reload page"
+}

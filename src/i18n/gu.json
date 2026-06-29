@@ -1,0 +1,82 @@
+{
+  "brand.name": "Inner Feelings",
+  "hero.tagline": "તમારું આંતરિક રહસ્ય",
+  "hero.trust": "આ વ્યવસાયમાં {years} વર્ષનો અનુભવ",
+  "hero.subtitle": "પુરુષો, મહિલાઓ અને બાળકો માટે ઇનરવેર અને રોજિંદા કપડાંની વિશ્વસનીય મલ્ટિ-બ્રાન્ડ દુકાન. અમદાવાદમાં અમારી મુલાકાત લો અથવા ગમે ત્યારે અમને સંદેશ મોકલો.",
+  "hero.ctaBrowse": "કલેક્શન જુઓ",
+  "hero.ctaContact": "મુલાકાત / સંપર્ક",
+
+  "header.visitContact": "મુલાકાત / સંપર્ક",
+  "header.home": "Inner Feelings — હોમ પેજ પર જાઓ",
+
+  "lang.label": "ભાષા",
+  "lang.changed": "ભાષા ગુજરાતી પર સેટ કરી",
+
+  "skip.toContent": "મુખ્ય સામગ્રી પર જાઓ",
+  "newTab": "(નવી ટેબમાં ખુલે છે)",
+
+  "dept.men": "પુરુષ",
+  "dept.women": "મહિલા",
+  "dept.kids": "બાળકો",
+  "dept.group": "વિભાગ પસંદ કરો",
+
+  "cat.group": "શ્રેણી પ્રમાણે ફિલ્ટર કરો",
+  "cat.all": "બધું",
+  "cat.undergarments": "અન્ડરગાર્મેન્ટ્સ",
+  "cat.lingerie": "લૉન્જરી",
+  "cat.tshirtsFull": "ટી-શર્ટ (ફુલ સ્લીવ)",
+  "cat.tshirtsHalf": "ટી-શર્ટ (હાફ સ્લીવ)",
+  "cat.boxers": "બોક્સર્સ",
+  "cat.shorts": "શોર્ટ્સ",
+  "cat.nightPajamas": "નાઇટ પાયજામા",
+  "cat.joggers": "જોગર્સ",
+  "cat.gymWear": "જિમ વેર / એથલેઝર",
+  "cat.thermals": "વિન્ટર થર્મલ્સ",
+  "cat.accessories": "એક્સેસરીઝ",
+  "cat.tracks": "ટ્રેક્સ",
+  "cat.yogaWear": "યોગા વેર",
+  "cat.coordSets": "કો-ઓર્ડ સેટ્સ",
+  "cat.socks": "મોજાં",
+
+  "section.products": "અમારું કલેક્શન",
+  "kids.note": "6–12 વર્ષના બાળકો માટે અમે મોજાં રાખીએ છીએ — આરામદાયક, ટકાઉ અને યોગ્ય સાઇઝના.",
+
+  "results.count": "{count} વસ્તુઓ બતાવી",
+  "results.countOne": "1 વસ્તુ બતાવી",
+  "results.none": "તમારા ફિલ્ટર સાથે કોઈ વસ્તુ મેળ ખાતી નથી. બીજી શ્રેણી અજમાવો.",
+
+  "card.brand": "બ્રાન્ડ",
+  "card.enquire": "WhatsApp પર પૂછપરછ કરો",
+  "card.enquireAria": "{name} વિશે WhatsApp પર પૂછપરછ કરો ",
+  "card.viewDetails": "વિગતો જુઓ",
+  "card.viewDetailsAria": "{name} ની વિગતો જુઓ",
+
+  "modal.close": "બંધ કરો",
+  "modal.enquire": "WhatsApp પર પૂછપરછ કરો",
+  "modal.call": "દુકાનને કૉલ કરો",
+  "modal.howToBuy": "ઓનલાઇન ઓર્ડર નથી — અમારી મુલાકાત લો અથવા સંદેશ મોકલો, અમે રૂબરૂ મદદ કરીશું.",
+
+  "howToBuy.title": "ખરીદી કેવી રીતે કરવી",
+  "howToBuy.visitLine": "કંઈક ગમ્યું? અમારી દુકાનની મુલાકાત લો અથવા સંપર્ક કરો — અમે તમને યોગ્ય સાઇઝ અને શ્રેષ્ઠ ભાવ રૂબરૂ શોધવામાં મદદ કરીશું.",
+  "howToBuy.porterTitle": "ડિલિવરી જોઈએ છે?",
+  "howToBuy.porterLine": "તમે Porter દ્વારા ડિલિવરી ગોઠવી શકો છો — ફક્ત અમને કૉલ કરો.",
+  "howToBuy.noPrices": "અમે ઓનલાઇન ભાવ બતાવતા નથી. વર્તમાન ભાવ અને ઓફર્સ માટે અમને સંદેશ અથવા કૉલ કરો.",
+
+  "contact.title": "મુલાકાત / સંપર્ક",
+  "contact.subtitle": "તમને યોગ્ય ફિટ શોધવામાં મદદ કરવામાં અમને આનંદ થશે.",
+  "contact.whatsapp": "WhatsApp પર ચેટ કરો",
+  "contact.call": "અમને કૉલ કરો",
+  "contact.email": "અમને ઈમેલ કરો",
+  "contact.addressLabel": "અમારી દુકાન",
+  "contact.directions": "દિશા-નિર્દેશ મેળવો",
+  "contact.directionsAria": "Inner Feelings, {address} માટે દિશા-નિર્દેશ મેળવો ",
+  "contact.quickLabel": "ઝડપી સંપર્ક",
+
+  "footer.disclaimer": "બ્રાન્ડ નામો, ઉત્પાદન નામો અને છબીઓ તેમના સંબંધિત માલિકોના ટ્રેડમાર્ક છે, જે દુકાનમાં ઉપલબ્ધ સ્ટોક દર્શાવવા માટે બતાવેલ છે.",
+  "footer.rights": "© {year} Inner Feelings. સર્વ હક્ક સુરક્ષિત.",
+  "footer.tagline": "your inner secret — અમદાવાદમાં 10+ વર્ષોથી સેવા.",
+
+  "error.title": "કંઈક ખોટું થયું",
+  "error.body": "કૃપા કરીને પેજ રિફ્રેશ કરો. જો સમસ્યા ચાલુ રહે, તો સીધો અમારો સંપર્ક કરો:",
+  "error.reload": "પેજ ફરી લોડ કરો"
+}

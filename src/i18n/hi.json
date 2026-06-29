@@ -1,0 +1,82 @@
+{
+  "brand.name": "Inner Feelings",
+  "hero.tagline": "आपका भीतरी राज़",
+  "hero.trust": "इस व्यवसाय में {years} वर्षों का अनुभव",
+  "hero.subtitle": "पुरुषों, महिलाओं और बच्चों के लिए इनरवियर और रोज़मर्रा के कपड़ों की भरोसेमंद मल्टी-ब्रांड दुकान। अहमदाबाद में हमसे मिलें या कभी भी संदेश भेजें।",
+  "hero.ctaBrowse": "कलेक्शन देखें",
+  "hero.ctaContact": "मिलें / संपर्क करें",
+
+  "header.visitContact": "मिलें / संपर्क",
+  "header.home": "Inner Feelings — होम पेज पर जाएँ",
+
+  "lang.label": "भाषा",
+  "lang.changed": "भाषा हिन्दी पर सेट की गई",
+
+  "skip.toContent": "मुख्य सामग्री पर जाएँ",
+  "newTab": "(नई टैब में खुलता है)",
+
+  "dept.men": "पुरुष",
+  "dept.women": "महिला",
+  "dept.kids": "बच्चे",
+  "dept.group": "विभाग चुनें",
+
+  "cat.group": "श्रेणी के अनुसार फ़िल्टर करें",
+  "cat.all": "सभी",
+  "cat.undergarments": "अंडरगारमेंट्स",
+  "cat.lingerie": "लॉन्जरी",
+  "cat.tshirtsFull": "टी-शर्ट (फुल स्लीव)",
+  "cat.tshirtsHalf": "टी-शर्ट (हाफ स्लीव)",
+  "cat.boxers": "बॉक्सर्स",
+  "cat.shorts": "शॉर्ट्स",
+  "cat.nightPajamas": "नाइट पजामा",
+  "cat.joggers": "जॉगर्स",
+  "cat.gymWear": "जिम वियर / एथलेज़र",
+  "cat.thermals": "विंटर थर्मल्स",
+  "cat.accessories": "एक्सेसरीज़",
+  "cat.tracks": "ट्रैक्स",
+  "cat.yogaWear": "योगा वियर",
+  "cat.coordSets": "को-ऑर्ड सेट्स",
+  "cat.socks": "मोज़े",
+
+  "section.products": "हमारा कलेक्शन",
+  "kids.note": "6–12 वर्ष के बच्चों के लिए हम मोज़े रखते हैं — आरामदायक, टिकाऊ और सही साइज़ के।",
+
+  "results.count": "{count} वस्तुएँ दिखाई गईं",
+  "results.countOne": "1 वस्तु दिखाई गई",
+  "results.none": "आपके फ़िल्टर से कोई वस्तु मेल नहीं खाती। कोई और श्रेणी आज़माएँ।",
+
+  "card.brand": "ब्रांड",
+  "card.enquire": "WhatsApp पर पूछताछ करें",
+  "card.enquireAria": "{name} के बारे में WhatsApp पर पूछताछ करें ",
+  "card.viewDetails": "विवरण देखें",
+  "card.viewDetailsAria": "{name} का विवरण देखें",
+
+  "modal.close": "बंद करें",
+  "modal.enquire": "WhatsApp पर पूछताछ करें",
+  "modal.call": "दुकान को कॉल करें",
+  "modal.howToBuy": "ऑनलाइन ऑर्डर नहीं — हमसे मिलें या संदेश भेजें, हम आपकी व्यक्तिगत रूप से मदद करेंगे।",
+
+  "howToBuy.title": "खरीदें कैसे",
+  "howToBuy.visitLine": "कुछ पसंद आया? हमारी दुकान पर आएँ या संपर्क करें — हम आपको सही साइज़ और बेहतरीन कीमत व्यक्तिगत रूप से खोजने में मदद करेंगे।",
+  "howToBuy.porterTitle": "डिलीवरी चाहिए?",
+  "howToBuy.porterLine": "आप Porter के ज़रिए डिलीवरी की व्यवस्था कर सकते हैं — बस हमें कॉल करें।",
+  "howToBuy.noPrices": "हम ऑनलाइन कीमतें नहीं दिखाते। मौजूदा कीमतों और ऑफ़र के लिए हमें संदेश या कॉल करें।",
+
+  "contact.title": "मिलें / संपर्क",
+  "contact.subtitle": "आपको सही फिट खोजने में मदद करके हमें खुशी होगी।",
+  "contact.whatsapp": "WhatsApp पर चैट करें",
+  "contact.call": "हमें कॉल करें",
+  "contact.email": "हमें ईमेल करें",
+  "contact.addressLabel": "हमारी दुकान",
+  "contact.directions": "दिशा-निर्देश पाएँ",
+  "contact.directionsAria": "Inner Feelings, {address} के लिए दिशा-निर्देश पाएँ ",
+  "contact.quickLabel": "त्वरित संपर्क",
+
+  "footer.disclaimer": "ब्रांड नाम, उत्पाद नाम और छवियाँ उनके संबंधित मालिकों के ट्रेडमार्क हैं, जो दुकान में उपलब्ध स्टॉक को दर्शाने के लिए दिखाए गए हैं।",
+  "footer.rights": "© {year} Inner Feelings. सर्वाधिकार सुरक्षित।",
+  "footer.tagline": "your inner secret — अहमदाबाद में 10+ वर्षों से सेवा।",
+
+  "error.title": "कुछ गड़बड़ हो गई",
+  "error.body": "कृपया पेज रिफ्रेश करें। यदि समस्या बनी रहे, तो हमसे सीधे संपर्क करें:",
+  "error.reload": "पेज फिर से लोड करें"
+}
